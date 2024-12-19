@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NJ Population Density-Transits and Long-term Care facilities</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+        }
+        iframe {
+            border: none;
+            margin: 20px 0;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>NJ Transit Project</h1>
+    <p>Author: Muhammad Haroon Ashfaq</p>
+    <p>34:816:651:90 SEM PUB INFORM</p>
+
+    <div class="section">
+        <h2>Project Scope</h2>
+        <p>This project analyzes the relationship between New Jersey’s population density, bus terminal locations, and long-term care (LTC) facilities. Using a combination of static and interactive maps, the study examines the following key questions:</p>
+        <ul>
+            <li>How are bus terminals distributed across counties in New Jersey?</li>
+            <li>What is the relationship between population density and the availability of transit terminals?</li>
+            <li>How accessible are bus terminals for LTC facilities in densely populated areas?</li>
+        </ul>
+        <p>The maps presented aim to provide insights into transit accessibility and its spatial alignment with population and care facility needs.</p>
+    </div>
+
+    <div class="section">
+        <h2>Static Maps</h2>
+        <h3>Population Density Map</h3>
+        <p>This map visualizes population density across New Jersey counties, highlighting areas of higher residential concentration. The data is sourced from the 2020 U.S. Census and processed for geographic representation.</p>
+        <img src="population_density_map.png" alt="Population Density Map">
+
+        <h3>Bus Terminals by County</h3>
+        <p>This map shows the number of bus terminals in each county. The terminal counts were derived using a spatial join operation between the bus terminal data and county boundaries.</p>
+        <img src="bus_terminal_counts_map.png" alt="Bus Terminals by County">
+    </div>
+
+    <div class="section">
+        <h2>Interactive Maps</h2>
+        <h3>Interactive Map: Bus Terminals</h3>
+        <p>This map shows all bus terminals in New Jersey with details such as name, municipality, and operator. Hover over a terminal for more information.</p>
+        <iframe src="interactive_map.html" width="100%" height="500"></iframe>
+
+        <h3>5-Mile Buffer Zones Around Bus Terminals</h3>
+        <p>This map highlights areas within a 5-mile radius of bus terminals, providing insights into transit accessibility. It also overlays population density for comparative analysis.</p>
+        <iframe src="buffer_map.html" width="100%" height="500"></iframe>
+
+        <h3>Combined Analysis: Terminals, LTC Facilities, and Population Density</h3>
+        <p>This interactive map integrates bus terminals, LTC facilities, and population density. It provides a comprehensive view of the spatial relationship between these factors, aiding in understanding transit accessibility for vulnerable populations.</p>
+        <iframe src="combined_map.html" width="100%" height="500"></iframe>
+    </div>
+
+    <div class="section">
+        <h2>Data Sources</h2>
+        <p><strong>County Boundaries:</strong> This shapefile was sourced from the New Jersey GIS database. It includes boundaries for all counties in the state and provides the base geography for the analysis.</p>
+        <p><strong>Bus Terminals:</strong> This dataset was obtained from NJ Transit and includes details about terminal names, locations, parking availability, and ticket-selling facilities. The data was cleaned and converted into a GeoDataFrame for mapping.</p>
+        <p><strong>LTC Facilities:</strong> Provided by the NJ Department of Health, this dataset includes facility names and addresses. Latitude and longitude were derived for spatial mapping.</p>
+        <p>All datasets were processed using spatial joins, coordinate system transformations, and data cleaning steps to ensure compatibility for geospatial analysis.</p>
+    </div>
+
+    <div class="section">
+        <h2>Analysis and Methodology</h2>
+        <p>The analysis consisted of the following steps:</p>
+        <ul>
+            <li><strong>Population Density:</strong> Population data was mapped at the county level using census data to identify densely populated areas.</li>
+            <li><strong>Bus Terminal Accessibility:</strong> Bus terminals were spatially joined with county data to analyze their distribution and proximity to dense populations.</li>
+            <li><strong>Buffer Analysis:</strong> A 5-mile buffer was created around each bus terminal to visualize areas of influence and accessibility.</li>
+            <li><strong>LTC Facility Proximity:</strong> LTC facility locations were integrated to analyze their proximity to bus terminals and alignment with dense population clusters.</li>
+        </ul>
+        <p>The combination of static and interactive maps enables detailed exploration of these factors, providing valuable insights into New Jersey’s transit infrastructure and its accessibility for diverse population groups.</p>
+    </div>
+</body>
+</html>

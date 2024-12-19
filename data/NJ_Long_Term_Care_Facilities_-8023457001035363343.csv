@@ -1,0 +1,731 @@
+﻿OBJECTID,FacilityIdentifier,FacilityName,Address1,Address2,City,FacilityType,x,y
+1,NJ25045,Pace-Life Connection At Atlanticare,2801 Pacific Ave,,Atlantic City,Pace,512207.972424767,192767.684930356
+2,3130300,Bacharach Institute For Rehabilitation,61 W Jimmie Leeds Road,,Pomona,Rehabs,481068.958113226,234985.959257889
+3,NJ69830,Acuity Specialty Hospital Of New  Jersey,1925 Pacific Avenue,5th Floor Wellness/Friendship Pavilion,Atlantic City,Long Term Care,510704.207442931,191292.886539507
+4,NJ01A006,Seashore Gardens Living Center,22 West Jimmie Leeds Road,,Galloway Township,Assisted Living Residence,482770.018692865,233253.644812357
+5,NJ1A001,Woodview Estates,5030 Unami Boulevard,,Mays Landing,Assisted Living Residence,439056.533040823,220919.105192171
+6,NJ018251,Renaissance Pavilion,61 W Jimmie Leeds Road,,Pomona,Long Term Care Facility,481069.392959461,234983.048301273
+7,NJ01A007,"Caring Senior Living, Inc",227 North Vermont Avenue,,Atlantic City,Assisted Living Program,515834.470967786,195976.601381684
+8,NJ1A000,Brandywine Living At Brandall Estates,432 Central Avenue,,Linwood,Assisted Living Residence,472631.437119469,191625.972022394
+9,NJ1A006,The Heritage Assisted Living,45 Route 206,,Hammonton,Assisted Living Residence,410881.289165188,298009.098623159
+10,NJ60103,Eastern Pines Convalescent Center,29 North Vermont Ave,,Atlantic City,Long Term Care Facility,516225.068234059,195038.90674272
+11,NJ01001,Egg Harbor Care Center,6818 Delilah Road,,Egg Harbor Township,Long Term Care Facility,483912.053823493,211141.930504311
+12,NJ60113,Hammonton Center For Rehabilitation And Healthcare,43 N White Horse Pike,,Hammonton,Long Term Care Facility,410496.037706066,297548.456673161
+13,NJ60101,Meadowview Nursing And Rehabilitation Center,235 Dolphin Ave,,Northfield,Long Term Care Facility,480164.125520088,199070.595222476
+14,NJ60106,Our Lady's Center For Rehabilitation & Healthcare,1100 Clematis Ave,,Pleasantville,Long Term Care Facility,483956.481107505,199190.054157181
+15,NJ60115,Preferred Care At Absecon,1020 Pitney Road,,Absecon,Long Term Care Facility,493341.445263528,221860.171643411
+16,NJ18200,"Providence Pediatric Medical Daycare, Inc",35 South Annapolis Avenue,,Atlantic City,Pediatric Day Health Care Services,503906.508183284,187754.441426604
+17,NJ018255,Wee Care Pediatric Medical Day Care Center,29 North Vermont Avenue,,Atlantic City,Pediatric Day Health Care Services,516225.068234059,195038.90674272
+18,NJ60104,"Complete Care At Linwood, LLC",,,,,472252.308989571,191218.568423
+19,NJ30102,Seashore Gardens Living Center,22 West Jimmie Leeds Road,,Galloway,Nursing Home,482770.018692865,233253.644812357
+20,NJ1A002,Somers Place,,,,,462600.329394943,186956.620653407
+21,NJ1A005,Villa Raffaella Assisted Living Community,,,,,483387.51530415,200272.203267673
+22,NJ018254,Royal Suites Health Care & Rehabilitation,214 West Jimmie Leeds Road,,Galloway,Long Term Care Facility,474568.114906571,235071.032975711
+23,NJ60102,The Health Center At Galloway,66 West Jimmie Leeds Road,,Galloway,Long Term Care Facility,480708.447620177,233664.946336605
+24,NJ018252,The Pediatric Medical Day Care Center At Galloway,66 West Jimmie Leeds Road,,Galloway,Day Care Center,480702.398062052,233593.864329997
+25,NJ1A004,Spring Village At Galloway,46 And 42 West Jimmie Leeds Road,,Galloway,Assisted Living,481622.152247064,233692.234136548
+26,NJ1A003,Spring Village At Galloway,46 And 42 Jimmie Leeds Road,,Galloway,Assisted Living,481684.922173825,233293.460969824
+27,NJ02A026,Atria Norwood,545 Tappan Road,,Norwood,,642499.137772063,792291.112312147
+28,NJ5A001,Atrium Post Acute Care Of Park Ridge,124 Noyes Drive,,Park Ridge,,620802.290410927,803772.501654585
+29,NJ13A021,Atria Waldwick,245 Wyckoff Avenue,,Waldwick,,591189.597792583,793969.805544761
+30,NJ02A024,Brandywine  Living At Mahwah,814 Wyckoff Avenue,,Mahwah,,584224.107629013,798842.689501248
+31,NJ30225,The Bright Side Family,300 Teaneck Road,,Teaneck,,626591.782545489,742735.382268321
+32,NJ02A029,The Bristal Assisted Living At Englewood,412 South Van Brunt Street,,Englewood,,634129.855752956,747130.010888175
+33,NJ02A016,The Bristal Assisted Living At Woodcliff Lake,364 Chestnut Ridge Road,,Woodcliff Lake,,609655.875251621,803383.746332944
+34,NJ02A031,Harmony Village At Care One Paramus,189 Paramus Road,,Paramus,,604546.523587765,767153.030640171
+35,NJ5A008,Sunrise Of Edgewater,351 River Road,,Edgewater,,633968.521827375,720023.631753181
+36,NJ5A007,Sunrise Of Woodcliff Lake,430 Chestnut Ridge Road,,Woodcliff Lake,,609945.614406652,804264.657200731
+37,NJ02A020A,Brightview Paramus,396 Forest Avenue,,Paramus,"Senior Independent Living, Assisted Living, Memory",616556.949416168,768681.4579205
+38,NJ02A023,Brightview Tenafly,55 Hudson Avenue,,Tenafly,Senior Assisted Living & Memory Care,641002.031961914,765930.217465939
+39,NJ5A004,Brookdale Emerson,590 Old Hook Road,,Emerson,,630348.955831668,782132.326659918
+40,NJ312019,Select Specialty Hospital-Northeast New Jersey,96 Parkway,,Rochelle Park,,609906.928107566,752164.411983152
+41,NJ60232,Buckingham Care & Rehabilitation Center,100 Mcclellan Street,,Norwood,,641052.739504857,793335.557072551
+42,NJ02002,Care One At Teaneck,544 Teaneck Road,,Teaneck,,627155.63419517,744971.424110692
+43,NJ056300,Hackensack Meridian Health Prospect Heights Care Center,336 Prospect Ave,,Hackensack,,615955.718098889,750857.042277532
+44,NJ5A003,Sunrise Of Paramus,567 Paramus Road,,Paramus,,604446.913061458,776474.910624825
+45,NJ20202,Kessler Inst. For Rehabilitation Saddlebrook,300 Market Street,,Saddle Brook,,604710.341338243,751582.017458678
+46,NJD35012,Fox Trail Memory Care Living Cresskill,248 Madison Avenue,,Cresskill,,637456.391311829,768228.886981634
+47,NJD35003,La Paula Manor Corp,25 South Paula Drive,,Bergenfield,Residential Dementia Care Home,629973.221269215,759958.178858992
+48,NJ5A000,Care One At The Cupola,100 W  Ridgewood Avenue,,Paramus,,606185.273926728,778578.777417629
+49,NJ60228,Paramus Veterans Memorial Home,1 Veterans Way,,Paramus,,612855.200087679,774851.351337789
+50,NJ60230,Bergen County Health Care Ctr,35 Piermont Road B,,"Rockleigh/ Northvale, Nj",,648953.941490686,791758.251026923
+51,NJ02A021,Portable Assisted Living Services,300 Teaneck Road,,Teaneck,,626592.708605959,742734.100780019
+52,NJ02C011,Villa Marie Claire,12 West Saddle River Road,,Saddle River,Hospice,602221.414148875,793990.023035991
+53,NJ60229,Alaris Health At Rochelle Park,96 Parkway Building C,,Rochelle Park,,609907.352299528,752161.393809818
+54,NJD35014,Fox Trail Memory Care Living At  Hillsdale East,60 Pascack Road,,Hillsdale,,614196.491343975,790479.452871301
+55,NJD35015,Fox Trail Memory Care Living Hillsdale West,45 Pascack Road,,Hillsdale,,614110.292146231,790304.115577438
+56,NJD35025,Fox Trail Memory Care Living At Lake Street,70 Lake Street,,Ramsey,,594460.132247108,810927.647073653
+57,NJD35016,Fox Trail Memory Care Living Mahwah,699 Wyckoff Avenue,,Mahwah,,583893.545899278,801563.777409333
+58,NJD35018,Fox Trail Memory Care Living At  Paramus,143 N  Fairview Avenue,,Paramus,,612207.485328105,763841.590619561
+59,NJD35019,Fox Trail Memory Care Living  At Park Ridge,103 Kinderkamack Road,,Park Ridge,,620392.36874859,800926.896962545
+60,NJD35020,Fox Trail Memory Care Living At Ramsey,38 North Central Avenue,,Ramsey,,590335.980395953,810705.426695479
+61,NJD35023,Fox Trail Memory Care Living At  Woodcliff Lake,290 Werimus Road,,Woodcliff Lake,,611829.768452105,800947.98599885
+62,NJD35004,La Paula At Main,244 E Main Street,,Bergenfield,,633841.636701542,763481.359450872
+63,NJ5A002,Brighton Gardens Of Saddle River,5 Boroline Road,,Saddle River,,598547.490138331,802443.239200859
+64,NJ5A006,Brookdale Paramus,186 Paramus Road,,Paramus,,604971.91118319,767148.08116756
+65,NJ02A001,Five Star Premier Residences Of Teaneck,655 Pomander Walk,,Teaneck,,621452.478869682,749328.027674898
+66,NJ02A00,Jewish Home Assisted Living,685 Westwood Avenue,,River Vale,,629015.729176333,787547.021772831
+67,NJLRR782,Mill Gardens At Midland Park,36 Faner Road,,Midland Park,,589482.983777292,784817.848629692
+68,NJ90103,Sunrise Of Old Tappan,195 Old Tappan Road,,Old Tappan,,635858.696492429,794963.36471957
+69,NJ05A200,Sunrise Of Cresskill,3 Tenakill Park  East,,Cresskill,,640293.404710817,767482.090752003
+70,NJ5C001,The Allendale Community For Senior Living,85 Harreton Road,,Allendale,,596984.563459542,805705.06484754
+71,NJ056301,Alaris Health At The Chateau,96 Parkway Building 1,,Rochelle Park,,609883.058688298,752187.497602637
+72,NJ60201,Allendale Nursing Home,85 Harreton Road,,Allendale,,596984.961120811,805710.870585983
+73,NJ30202,Armenian Nursing And Rehabilitation Center,70 Main Street,,Emerson,,624954.928731871,780312.92948535
+74,NJ62219,Atrium Post Acute Care Of Park Ridge,120 Noyes Drive,,Park Ridge,,620504.480201702,803542.883069907
+75,NJ10201L,Bergen New Bridge Medical Center,230 E Ridgewood Ave,,Paramus,,612833.643770097,773823.016600896
+76,NJ60208,Care One At Cresskill,221 County Road,,Cresskill,,641993.211303718,768565.879781542
+77,NJ60222,Care One At New Milford,800 River Road,,New Milford,,623025.873682101,763732.227551205
+78,NJ60234,Care One At Oradell,600 Kinderkamack Road,,Oradell,,621918.373518063,775353.194355227
+79,NJ60214,Care One At Ridgewood Avenue,90 W  Ridgewood Ave,,Paramus,,606003.852418003,778624.892728366
+80,NJ60218,Care One At Valley,300 Old Hook Road,,Westwood,,626737.146597562,783813.980271467
+81,NJ60205,Care One At Wellington,301 Union Street,,Hackensack,,618047.109354597,748783.125146967
+82,NJ60206,County Manor Rehabilitation And Health Care Center,133 County Road,,Tenafly,,640754.747273274,763808.888074656
+83,NJ60207,Dellridge Health & Rehabilitation Center,532 N Farview Ave,,Paramus,,614471.73914339,773028.919008968
+84,NJ60202,Emerson Health And Rehabilitation Center,100 Kinderkamack Road,,Emerson,,622083.843504921,779759.120057849
+85,NJ60227,Family Of Caring At Ridgewood,304 S. Van Dien Ave,,Ridgewood,,600593.049652153,778340.98124291
+86,NJ60231,Regent Care Center,50 Polifly Road,,Hackensack,Post Acute Care,615362.532718354,745465.093164959
+87,NJ60210,Inglemoor Center,333 Grand Ave,,Englewood,,636512.55878263,746619.591973342
+88,NJJZ24OP,Jewish Home At Rockleigh,10 Link Drive,,Rockleigh,,648876.033435357,792354.357383879
+89,NJ60224,Maple Glen Center,12-15 Saddle River Road,,Fairlawn,,603422.001458216,767757.681014431
+90,NJ60203,Maywood Center For Health And Rehabilitation,100 West Magnolia Avenue,,Maywood,,611146.817173927,753168.229523425
+91,NJ60223,Oakland Rehabilitation And Healthcare Center,20 Breakneck Road,,Oakland,,561778.264180332,789504.289970824
+92,NJ60215,Ridgewood Center,330 Franklin Tpk,,Ridgewood,,601520.980618664,787145.002129603
+93,NJ60217,Teaneck Nursing Center,1104 Teaneck Road,,Teaneck,,629405.806725077,750214.513034126
+94,NJ60221,Woodcliff Lake Health & Rehabilitation Center,555 Chestnut Ridge Road,,Woodcliff Lake,,610025.168224644,805971.83210617
+95,NJ5C000,The Actors Fund Home,155-175 West Hudson Ave,,Englewood,,637145.760739728,757400.228670053
+96,NJAL02007,The Actors Fund Homes,155-175 W Hudson Ave.,,Englewood,,637145.760739728,757400.228670053
+97,NJ30201,The Actors Fund Homes,155-175 W Hudson Ave,,Englewood,,637145.760739728,757400.228670053
+98,NJ62223,Care One Ltac At Hackensackumc At Pascack Valley,250 Old Hook Rd,,Westwood,,625812.768636618,784379.910891105
+99,NJ63823,Longview Assisted Living Main,301 Sicomac Avenue,,Wyckoff,,582739.471020699,782601.838069321
+100,NJ5A005,Christian Health Care Center,301 Sicomac Avenue,,Wyckoff,,582739.471020699,782601.838069321
+101,NJ60204,Christian Health Care Center,301 Sicomac Ave,,Wyckoff,,582739.471020699,782601.838069321
+102,NJ12A024,Care Strategies,201 Crosswicks Street,,Bordentown,Alp,435007.450581906,478298.423459403
+103,NJ20A004,Care Strategies,201 Crosswicks Street,,Bordentown,Alp,434999.414442385,478253.970653766
+104,NJ03A014,Arbor Terrace Mount Laurel,785  Centerton Road,,Mount Laurel,Assisted Living/Dementia Facility,384785.769959365,422750.890451196
+105,NJ03A008,"Artis Senior Living Of Evesham, LLC",302 Lippincott Drive,,Evesham,Assisted Living/Dementia Facility,372978.861476256,383562.759653949
+106,NJ10A100,Care One At Moorestown,895 Westfield Avenue,,Moorestown,Assisted Living/Dementia Facility,369830.743774974,421593.049244436
+107,J6TDGC,Clare Estate,201 Crosswicks Street,,Bordentown,Assisted Living/Dementia Facility,434995.509911342,478228.870733753
+108,NJ10A000,Granville Place,111 Sunset Road,,Burlington,Assisted Living/Dementia Facility,395587.991405441,443375.374974465
+109,NJ03A004,Harmony Village At Care One Stanwick Road,301 N Stanwick Road,,Moorestown,Assisted Living/Dementia Facility,371446.516384526,415376.491310121
+110,NJ02C003,Masonic Village At Burlington,902 Jacksonville Road,,Burlington,Assisted Living/Dementia Facility,400899.237933032,447612.643534515
+111,NJ03A006,Cambridge Rehabilitation And Healthcare Center,255 E Main Street,,Moorestown,Assisted Living/Dementia Facility,370253.714407948,413952.665107915
+112,NJ60301,Burlington Woods,115 Sunset Road,,Burlington,Nursing Home,395115.879197633,442837.777044465
+113,NJ106100,Care One At Moorestown,895 Westfield Road,,Moorestown,Nursing Home,369809.032503341,421623.023359206
+114,NJ03015,Laurel Brook Rehabilitation And Healthcare Center,3718 Church Road,,Mount Laurel,Nursing Home,358375.084403413,399178.906349749
+115,NJ60315,Marcella Center,2305 Rancocas Road,,Burlington,Nursing Home,394325.34048171,440626.456137195
+116,NJ30306,Masonic Village At Burlington,902 Jacksonville Road,,Burlington,Nursing Home,400891.001914279,447607.618606736
+117,NJ30307,Wiley Christian Retirement,99 East Main Street,,Marlton,Nursing Home,376061.094839386,384390.634543814
+118,43755,Acuity Specialty Hospital Of Southern New Jersey,218 A Sunset Road,,Willingboro,Long Term Care,379417.621172117,440314.24253704
+119,NJ60302,Aspen Hills Healthcare Center,600 Pemberton Brown Mills Rd,,Pemberton,Nursing Home,453620.113644023,413245.786552069
+120,NJ60308,Medford Leas,One Medford Leas Way,,Medford,Nursing Home,403756.333805691,391822.941114376
+121,NJ313032,Kessler Inst. For Rehabilitation Marlton,92 Brick Road,,Marlton,Rehabs,374816.531292311,382388.855974374
+122,NJ22345C,Weisman Children's Rehabilitation Hospital,"92 Brick Road, 3Rd Floor",,Marlton,Rehabs,374763.62400696,382310.27405657
+123,NJ24220,Life St. Francis,7500 Kevin Johnson Boulevard,,Bordentown,Pace,436937.445471333,482252.283230726
+124,NJ10A101,Clare Estate,201 Crosswicks Street,,Bordentown,Assisted Living Program,435018.069923265,478322.247480178
+125,NJ03009,Powerback Rehabilitation Moorestown,212 Marter Avenue,,Moorestown,Long Term Care Facility,374021.118278869,414237.692318314
+126,NJ10A002,Brandywine Living At Moorestown Estates,1205 N. Church Street,,Moorestown,Assisted Living Residence,360716.843504393,415167.991619641
+127,NJ03A007,Brightview Greentree- Senior Independent Living,170 E. Greentree Road,,Marlton,Assisted Living Residence/Memory Care,372384.174363881,393545.408575222
+128,NJ90106,Brightview Mount Laurel,400 Fernbrooke Lane,,Mount Laurel,Assisted Living Residence And Memory Care,380000.453241957,409779.824410226
+129,NJ10A001,Brookdale Florence,901 Broad Street,,Florence,Assisted Living Residence,405650.337201277,466150.334808307
+130,NJ90138,Brookdale Westampton,480  Woodlane Road,,Westampton,Assisted Living Residence,391703.965476135,433819.926053739
+131,NJ03A001,Care One At Evesham Assisted Living,874 Route 70 East,,Marlton,Assisted Living Residence,388780.110031898,387948.521772243
+132,NJ03A005,Oakbridge Terrace Assisted Living At Evergreens,309 Bridgeboro Road,,Moorestown,Assisted Living Residence,366558.126660167,419426.677687987
+133,NJ10C000,Baptist Home -  South Jersey/Riverview Estates,303 Bank Avenue,,Riverton,Comprehensive Personal Care Home,346735.470427528,430216.667019442
+134,NJ10C001,Medford Leas,One Medford Leas Way,,Medford,Comprehensive Personal Care Home,403776.743905644,391822.176885566
+135,NJ30301,Baptist Home -  South Jersey/Riverview Estates,303 Bank Ave,,Riverton,Long Term Care Facility,346735.470427528,430216.667019442
+136,NJ30305,Cambridge Rehabilitation And Healthcare Center,255 East Main St,,Moorestown,Long Term Care Facility,370262.264164721,413956.671475057
+137,NJ156002,Care One At Evesham,870 East Route 70,,Marlton,Long Term Care Facility,388843.501522756,387830.840633708
+138,NJ60313,Medford Care Center,185 Tuckerton Road,,Medford,Long Term Care Facility,394878.563536459,378732.287993065
+139,NJ60307,The Palace Rehabilitation And Care Center,315 West Mill Road,,Maple Shade,Long Term Care Facility,351332.782872399,404470.361216133
+140,NJ60312,Sterling Manor Nursing Center,794 N Forklanding Road,,Maple Shade,Long Term Care Facility,348378.870479721,414074.70405798
+141,NJ60310,Virtua Health & Rehabilitation Center At Mt. Holly,62 Richmond Avenue,,Lumberton,Long Term Care Facility,408096.509800835,420172.619479214
+142,NJ30303,Willowbrooke Court Skilled Care At Evergreens,309 Bridgeboro Road,,Moorestown,Long Term Care Facility,366558.126660167,419426.677687987
+143,NJ60314,Wynwood Rehabilitation And Healthcare Center,1700 Wynwood Drive,,Cinnaminson,Long Term Care Facility,355759.04129584,425940.277632475
+144,NJ153335,Wiley Christian Retirement,99 East Main Street,,Marlton,Residential Health Care,376079.501384335,384326.081633505
+145,NJ24251,Trinity Health Life New Jersey,2475 Mcclellan Avenue,,Pennsauken,Pace,332676.624137326,400329.280934463
+146,NJ04A105,Dpsp Health Care,102 Hearthstone Drive,,Berlin,Assisted Living Program,376297.005724378,341598.957673535
+147,NJ04A023,"Watson Street Assisted Living Program, LLC","2021 Watson Street, 2Nd Floor",,Camden,Assisted Living Program,325405.807855549,405018.534952888
+148,NJ04A022,Brandywine Living At Haddonfield,132 Warwick Road,,Haddonfield,Assisted Living Residence,341002.192359252,386070.744729211
+149,NJ15A004,Cherry Hill Senior Living,490 Cooper Landing Road,,Cherry Hill,Assisted Living Residence,347244.654485132,398245.747143457
+150,NJ04A024,Symphpony At Cherry Hill,1240 Brace Road,,Cherry Hill,Assisted Living Residence,347636.993730766,389333.079100542
+151,NJ04A005,Ivystone Senior Living,7999 North Route 130,,Pennsauken,Assisted Living Program,341391.104109913,416289.171918331
+152,NJ04007,"Powerback Rehabilitation, Route 73",113 South Route 73,,Voorhees,Long Term Care Facility,372031.907713596,363918.364696051
+153,NJ60407,Silver Healthcare Center,1417 Brace Road,,Cherry Hill,Long Term Care Facility,347367.187703409,385776.304374085
+154,NJ30402,St. Mary's Center For Rehabilitation & Healthcare,210 St Mary'S Drive,,Cherry Hill,Long Term Care Facility,361632.163329557,383457.936522441
+155,NJ153334,St. Mary's Villa For Independent & Retirement Living,220 St. Mary'S Drive,,Cherry Hill,Residential Health Care,361785.830476207,383525.109789595
+156,NJ60412,Majestic Center For Rehabilitation & Sub-Acute Care,Two Cooper Plaza,,Camden,Long Term Care Facility,319875.669050975,404358.436261011
+157,NJ15C000,Ivy Stone Senior Living,7999 Route 130 South,,Pennsauken,Comprehensive Personal Care Home,341418.779980076,416237.239142241
+158,NJ15A001,Arden Courts Of Cherry Hill,2700 Chapel Avenue,,Cherry Hill,Assisted Living Residence,348438.203430392,399331.907076811
+159,NJ15A002,Atria Cherry Hill,1979 Route 70 East,,Cherry Hill,Assisted Living Residence,363903.137440456,388317.524183989
+160,NJ15A006,Atria Voorhees Assisted Living Residence,1301 Laurel Oak Road,,Voorhees,Assisted Living Residence,360422.000048381,369923.821198507
+161,NJ04013,Brandywine Living At Voorhees,311 Route 73 South,,Voorhees,Assisted Living Residence,373232.566023477,370594.083068854
+162,NJ15A000,Brookdale Evesham,One Brendenwood Drive,,Voorhees,Assisted Living Residence,370417.678420431,378054.893388694
+163,NJ15A007,The Fountains At Cedar Parke,114 Hayes Mill Road,,Atco,Assisted Living Residence,377752.282067836,338908.155979501
+164,NJ04A003,Lions Gate,1100 Laurel Oak Road,,Voorhees,Assisted Living Residence,359192.923168179,370212.964060411
+165,NJ15A005,Premier Cadbury Of Cherry Hill,2150 Route 38,,Cherry Hill,Assisted Living Residence,347609.324535323,403704.00557756
+166,NJ04A006,Spring Hills Cherry Hill,1450 Marlton Pike,,Cherry Hill,Assisted Living Residence,354648.372188017,392790.946642164
+167,NJ15A008,Spring Oak Assisted Living At Voorhees,396 So. White Horse Pike,,Berlin,Assisted Living Residence,374950.080379615,345169.388892747
+168,NJ15A003,Voorhees Senior Living,501 Laurel Oak Road,,Voorhees,Assisted Living Residence,356148.119210222,368093.470257149
+169,NJ15C001,United Methodist Communities At Collingswood,460 Haddon Avenue,,Collingswood,Comprehensive Personal Care Home,330418.258362825,395625.093552296
+170,NJ60418,Abigail House For Nursing & Rehabilitation,1105 -1115 Linden Street,,Camden,Long Term Care Facility,321178.574805018,406387.507436759
+171,NJ60419,Allegria At The Fountains,114 Hayes Mill Road,,Atco,Long Term Care Facility,377752.282067836,338908.155979501
+172,NJ60417,Aristacare At Cherry Hill,1399 Chapel Ave West,,Cherry Hill,Long Term Care Facility,341389.130774194,402716.205580404
+173,NJ60402,Avista Healthcare,3025 Chapel Avenue West,,Cherry Hill,Long Term Care Facility,351155.315807145,398163.230690765
+174,NJ60403,"Barclays Rehabillitation And Healthcare Center, LLC",1412 Marlton Pike,,Cherry Hill,Long Term Care Facility,353801.688475561,392992.76169989
+175,NJ60411,"Elmwood Hills Healthcare Center, LLC",425 Woodbury-Turnersville Road,,Blackwood,Long Term Care Facility,331119.191965636,348629.729381843
+176,NJ60413,Kresson View Center,2601 Evesham Road,,Voorhees,Long Term Care Facility,367794.262396773,377493.046907765
+177,NJ60405,Laurel Manor Healthcare And Rehabilitation Center,18 W Laurel Road,,Stratford,Long Term Care Facility,348695.169458468,361399.305020618
+178,NJ04002,Lions Gate,1100 Laurel Oak Road,,Voorhees,Long Term Care Facility,359192.923168179,370212.964060411
+179,NJ158336,Manorcare Health Services Voorhees,1086 Dumont Circle,,Voorhees,Long Term Care Facility,357648.555406189,367607.307791912
+180,NJ60409,Premier Cadbury Of Cherry Hill,2150 Route 38,,Cherry Hill,Long Term Care Facility,347609.324535323,403704.00557756
+181,NJ60415,Riverfront Rehabilitation And Healthcare Center,5101 North Park Drive,,Pennsauken,Long Term Care Facility,332136.064568835,399200.227859914
+182,NJ30401,United Methodist Communities At Collingswood,460 Haddon Ave,,Collingswood,Long Term Care Facility,330418.258362825,395625.093552296
+183,NJ156001,Virtua Health & Rehabilitation Center At Berlin,100 Long-A-Coming Lane,,Berlin,Long Term Care Facility,373930.871319589,345472.499257405
+184,NJ60408,The Voorhees Care & Rehabilitation Center,1302 Laurel Oak Road,,Voorhees,Long Term Care Facility,360125.132400955,370492.157145749
+185,NJ60414,Voorhees Center,3001 Evesham Road,,Voorhees,Long Term Care Facility,371103.436917568,378439.428020218
+186,NJ60416,Voorhees Pediatric Facility,1304 Laurel Oak Road,,Voorhees,Long Term Care Facility,360349.795713756,370823.903505684
+187,NJ158226,Anna's Angels Pediatric Medical Daycare,238-240 Mercer Street,,Gloucester City,Pediatric Day Health Care Services,317555.062380806,389121.899802389
+188,NJ158220,"Providence Pediatric Medical Daycare, Inc.","1000 Atlantic Avenue, 1St Floor",,Camden,Pediatric Day Health Care Services,321626.854267183,399469.945668114
+189,NJ04012,"Providence Pediatric Medical Daycare, Inc","411 Commerce Lane, 1St Floor",,West Berlin,Pediatric Day Health Care Services,371853.861078216,356263.203840341
+190,NJ82449,Voorhees Pediatric Medical Day Care,1304 Laurel Oak Rd,,Voorhees,Pediatric Day Health Care Services,360349.795713756,370823.903505684
+191,NJ04001,Weisman Children's Medical Day Care Center At Pennsauken,2475 Mcclellan Avenue,,Pennsauken,Pediatric Day Health Care Services,332682.258329531,400165.178047503
+192,SIPFEP,Brookdale Echelon Lake,207 Laurel Road,,Voorhees,Comprehensive Personal Care Home,351688.482456779,369866.61793312
+193,NJ20A001,Brookdale Cape May,591 Route 9 South,,Cape May Court House,Assisted Living Residence,398061.958308329,88092.6164528458
+194,NJ60503,Oceana Rehabilitation And Nursing Center,502 Route 9 North,,Cape May Court House,Long Term Care Facility,403881.264434836,95839.1023275488
+195,NJ20A002,United Methodist Communities At The Shores,2201 Bay Avenue,,Ocean City,Assisted Living Residence,464297.841223766,157828.001958089
+196,NJ05C201,The Resort At Ocean View,2721 Route 9,,Ocean View,Comprehensive Personal Care Home,429278.749891706,129961.626221401
+197,NJ20C100,Victoria Commons Retirement Center,610 Townbank Road,,North Cape May,Comprehensive Personal Care Home,366825.652894671,53327.8583698338
+198,NJ60507,Court House Center,144 Magnolia Drive,,Cape May Court House,Long Term Care Facility,401103.213804685,92748.1794025513
+199,NJ62200,North Cape Center,700 Townbank Road,,North Cape May,Long Term Care Facility,371291.826030121,50829.7374441936
+200,NJ30501,United Methodist Communities At The Shores,2201 Bay Avenue,,Ocean City,Long Term Care Facility,464297.841223766,157828.001958089
+201,NJ05001,Victoria Manor,"3809 Bayshore Road , North",,Cape May,Nursing Home,366546.236087493,53307.3725823362
+202,NJ60501,Crest Haven Nursing And Rehabilitation Center,12 Moore Road,,Cape May Court House,Rehabilitation And Nursing Home,406698.719588035,98378.3584710597
+203,NJ60505,Autumn Lake Healthcare At Oceanview,2721 Us Route 9,,Ocean View,Nursing Home,429342.743135533,129957.626647397
+204,NJ24448,Inspira Health Life,2445 S Delsea Drive,,Vineland,Pace,339173.190245686,225418.538345628
+205,NJ299791,Encompass Health Rehabilitation Hospital Of Vineland,1237 W Sherman Avenue,,Vineland,Rehabs,336067.967878476,223362.439137395
+206,NJ25A000,Baker Place,685 S. Brewster Road,,Vineland,Assisted Living Residence,357787.715399994,233525.944110266
+207,NJ25A002,Spring Oak Assisted Living At Vineland,1611 South Main Road,,Vineland,Assisted Living Residence,349315.249198567,229294.128631459
+208,NJ06001,Weisman Children's Medical Day Care Center At Vineland,"1206 W Sherman Avenue, Suite 4E",,Vineland,Pediatric Day Health Care Services,336293.409523184,224782.816624423
+209,NJ25C001,South Jersey Extended Care,99 Manheim Avenue,,Bridgeton,Comprehensive Personal Care Home,289532.971151856,219451.129463221
+210,NJ60601,Bishop Mccarthy Center For Rehabilitation & Healthcare,1045 E Chestnut Ave,,Vineland,Long Term Care Facility,347733.430363952,235004.709799957
+211,NJ60607,Lincoln Specialty Care Center,1640 South Lincoln Avenue,,Vineland,Long Term Care Facility,355631.356291712,228871.95682898
+212,NJ60608,Millville Center,54 N Sharp Street,,Millville,Long Term Care Facility,338453.72906925,212710.635660244
+213,NJ50625,New Jersey Veterans Memorial Vineland,524 North West Blvd,,Vineland,Long Term Care Facility,343032.905272089,241463.508670649
+214,NJ60602,South Jersey Extended Care,99 Manheim Avenue,,Bridgeton,Long Term Care Facility,289532.971151856,219451.129463221
+215,NJ60603,Cumberland Manor Nursing And Rehabilitation Center,154 Sunny Slope Drive,,Bridgeton,Long Term Care Facility And Rehabilitation.,276599.63541811,211450.346791228
+216,NJ90108,Maurice House,1719 West Main Street,,Millville,Assisted Living,328241.680588084,207219.389969023
+217,NJ07A031,"Mc Properties Associates, ALP",285 Roseville Avenue,,Newark,Assisted Living Facility,578502.992380436,702149.440463027
+218,NJ30A002,Arden Courts Of West Orange,510 Prospect Avenue,,West Orange,Assisted Living Facility,559586.801505545,711369.216653344
+219,NJ07015,Arbor Terrace Roseland,345 Eagle Rock Avenue,,Roseland,Assisted Living Facility,544649.723977245,723406.200731797
+220,NJ07A021,Brandywine  Living At Livingston,369 East Mt Pleasant Avenue,,Livingston,Assisted Living,550299.258851358,715144.965373119
+221,NJ30A001,Brookdale West Orange,520 Prospect Avenue,,West Orange,,559582.47090282,711366.708934663
+222,NJ30A009,Care One At Livingston,76 Passaic Avenue,,Livingston,Assisted Living,532750.663461989,704350.914014032
+223,NJ30A008,"Cliffs At Eagle Rock, The",707 Eagle Rock Avenue,,West Orange,Assisted Living Facility,557435.588223328,720875.115584293
+224,0713-0096,Horizon Manor North,73 Overlook Road,,Montclair,Memory Care And Long-Term Care,576137.729766633,734292.793584815
+225,0713-0095,Horizon Manor South,89 Christopher Street,,Montclair,Memory Care And Long-Term Care,573944.801279416,723868.320297312
+226,NJ30A005,Crane's Mill At West Caldwell,459 Passaic Avenue,,West Caldwell,,546348.915594441,731956.151127414
+227,NJ07C009,"Roseville  Health Care, LLC",285 Roseville Avenue,,Newark,,578501.251753423,702149.440474965
+228,NJ30A000,Winchester Gardens Assisted Living Center,333 Elmwood Avenue,,Maplewood,Assisted Living And Long-Term Care,560483.544154722,689786.592617929
+229,NJ24009,Columbus Hospital Ltach,495 North 13Th Street,,Newark,Long-Term Acute Hospital,578908.53290455,706548.691366548
+230,NJ62209,Alaris Health At St. Mary's,135 South Center Street,,Orange,Nursing Home,566673.350498085,704649.240949468
+231,NJ306301,Care One At Livingston,68 Passaic Avenue,,Livingston,,532755.424920707,704354.372100218
+232,NJ62203,Forest Hill Healthcare Center,497 Mt Prospect Ave,,Newark,Nursing Home,583923.869460278,705070.982440213
+233,NJ30C001,Green Hill,103 Pleasant Valley Way,,West Orange,Assisted Living Facility,560212.083460371,724193.737655102
+234,NJ306300,Lutheran Social Ministries/Crane's Mill,459 Passaic Avenue,,West Caldwell,,546404.191636354,731887.032153004
+235,NJ60731,New Community Extended Care Facility,266 S Orange Ave,,Newark,Rehabilitation And Nursing Home,576696.74184873,694211.096902472
+236,NJ60721,White House Hlthcr & Rehab Ctr,560 Berkeley Avenue,,Orange,Rehabilitation And Long-Term Care,563727.848892777,701445.068259352
+237,NJ07028,Winchester Gardens,333 Elmwood Avenue,,Maplewood,,560384.320811471,689851.934490857
+238,NJ20725,Kessler Inst. For Rehabilitation West Orange,1199 Pleasant Valley Way,,West Orange,Rehabilitation,553909.618184941,711180.950330099
+239,NJD35008,Montclair Manor,403 Claremont Avenue,,Montclair,Alzheimer'S Care Facility,567843.92907045,725343.788871492
+240,NJ60719,Family Of Caring Healthcare At Montclair,42 North Mountain Ave,,Montclair,Nursing Home,568903.502561108,724566.899304399
+241,NJ30707,Green Hill,103 Pleasant Valley Way,,West Orange,,560212.083460371,724193.737655102
+242,NJ07011,Tcu At Clara Maass Medical Center,One Clara Maass Drive,,Belleville,Hospital Transitional Care Unit,581696.35242139,711277.665391162
+243,NJ60733,Park Crescent Healthcare & Rehabilitation Center,480 North Walnut Street,,East Orange,Nursing Home,575241.172722843,708119.689507431
+244,NJ60714,Stratford Manor Rehabilitation And Care Center,787 Northfield Ave,,West Orange,Rehabilitation And Long-Term Care,548308.948531299,705480.920311637
+245,NJ303333,Green Hill,103 Pleasant Valley Way,,West Orange,,560212.083537693,724190.964413121
+246,NJ30A004,Brighton Gardens Of West Orange,220 Pleasant Valley Way,,West Orange,Assisted Living Facility,560234.6853621,722731.972053762
+247,NJ30A006,Job Haines Home For Aged People/Hearthside Commons,250 Bloomfield Avenue,,Bloomfield,"Rehabilitation, Assisted Living, And Long-Term Care",577179.439377425,710397.618896937
+248,NJ30A003,Sunrise At West Essex,47 Greenbrook Road,,Fairfield,,554776.506584683,742753.356802902
+249,N2K04D,House Of The Holy Comforter Canterbury Village,33 Mount Pleasant Avenue,,West Orange,Assisted Living Facility,564098.680708724,709092.298381885
+250,NJ60705,Alaris Health At Cedar Grove,110 Grove Ave,,Cedar Grove,Nursing Home,564770.009979162,734400.374614516
+251,NJ60736,Alaris Health At Essex,155 Fortieth Street,,Irvington,Nursing Home,561457.300163643,687058.280892628
+252,NJ306001,Alaris Health At West Orange,5 Brook End Drive,,West Orange,Nursing Home,552317.507519823,706058.601624452
+253,NJ60706,Arbor Glen Center,25 E Lindsley Road,,Cedar Grove,Nursing Home,564484.798311619,743566.236853098
+254,NJ60738,Broadway House For Continuing Care,298 Broadway,,Newark,Assisted Living Facility,583741.213538985,702416.349819209
+255,NJ60732,Brookhaven Center For Rehabilitation And Healthcare,120 Park End Place,,East Orange,Nursing Home,566297.896583217,700602.658992565
+256,NJ60729,The Canterbury At Cedar Grove Care And Rehabilitation,398 Pompton Avenue,,Cedar Grove,Nursing Home,566809.26931657,733716.575534725
+257,NJ60739,Complete Care At Summit Ridge,20 Summit Street,,West Orange,Nursing Home,553165.567116158,711900.277210248
+258,NJ70770,Daughters Of Israel Pleasant Valley Home,1155 Pleasant Valley Way,,West Orange,Nursing Home,554498.351473636,711915.31470579
+259,NJ60734,West Caldwell Care Center,165 Fairfield Ave,,West Caldwell,,551087.853008749,737936.335835721
+260,NJ306100,Mountainside Hospital Adult,One Bay Ave,,Glen Ridge,,574158.763917709,720791.611842882
+261,NJ60708,Inglemoor Rehabilitation And Care Center Of Livingston,311 S Livingston Ave,,Livingston,Rehabilitation And Long-Term Care,543918.478629358,710740.718907006
+262,NJ30706,Hearthside Commons,250 Bloomfield Ave #1,,Bloomfield,,577179.439377425,710397.618896937
+263,NJ60709,Little Nursing Home,71 Christopher St,,Montclair,Assisted Living Facility,573704.284155015,723379.003496494
+264,NJ60702,Montclair Care Center,111-115 Gates Avenue,,Montclair,Nursing Home,569121.43696174,719082.344505993
+265,NJ60704,New Grove Manor Nursing And Rehabilitation,101 North Grove Street,,East Orange,Nursing Home,574158.362151698,701931.020353117
+266,NJ60730,New Vista Nursing And Rehabilitation Center,300 Broadway,,Newark,,583803.415014982,702351.751445722
+267,NJ60713,Sinai Post Acute Nursing And Rehab Center,65 Jay Street,,Newark,Rehabilitation And Long-Term Care,579829.688621202,697223.809114889
+268,NJ1B4IGL,St. Catherine Of Siena,7 Ryerson Avenue,,Caldwell,Skilled Nursing Facility,554364.365593678,728982.275285559
+269,NJ60737,St. Joseph's Healthcare And Rehab Center,315 East Lindsley Road,,Cedar Grove,Nursing Home,568351.713934004,741931.425983046
+270,NJ60720,Waterview Center,536 Ridge Road,,Cedar Grove,Rehabilitation And Long-Term Care,569825.668042175,736519.207027058
+271,NJ60722,Gardens Care And Rehabilitation Center,140 Park Ave,,East Orange,,575580.425041488,703411.287253182
+272,NJNH07001,Atrium Post Acute Care Of Livingston,348 East Cedar Street,,Livingston,Rehabilitation And Nursing Home,546743.505355221,703620.130133645
+273,NJ08A012,All American Assisted Living At Washington Township,339 Greentree Road,,Sewell,Assisted Living Residence,328247.545679685,333431.205515199
+274,NJ08007,"Advanced Subacute Rehabilitation Center At Sewell, LLC",685 Salina Road,,Sewell,Long Term Care Facility,313048.516736476,345451.460471082
+275,NJ08008,Atrium Post Acute Care Of Woodbury,467 Cooper Street,,Woodbury,Long Term Care Facility,311867.493049085,363967.670687326
+276,NJ08A009,Mullica Gardens Assisted Living,161 Mullica Hill Road,,Mullica Hill,Assisted Living Residence,291275.669348667,329187.26795694
+277,NJ35A002,Washington Township Senior Living,600 Medical Center Drive,,Sewell,Assisted Living Residence,333807.182911543,330259.580601533
+278,NJ35A001,Cardinal Village,455 Hurffville-Crosskeys Road,,Sewell,Assisted Living Residence,331948.773728418,329765.103946359
+279,NJ35A000,Fox Trail Assisted Living At Deptford,1674 Delsea Drive,,Deptford,Assisted Living Residence,316416.386673172,358104.498368314
+280,NJ35A005,Juniper Village At Williamstown,1640 S. Black Horse Pike,,Williamstown,Assisted Living Residence,360592.385110881,303273.110094111
+281,NJ35A004,"Juniper Village At Williamstown, Wellspring Memory Care Program",1648 S. Black Horse Pike,,Williamstown,Assisted Living Residence,360592.385110881,303273.110094111
+282,NJ90110,Summit Place,540 Mullica Hill Road,,Glassboro,Retirement Community,314434.107487214,320551.560720712
+283,NJ35A003,Terraces At Parke Place,661 Delsea Drive,,Sewell,Assisted Living Residence,319428.098153824,331664.087139317
+284,NJ35A3302,Greenfield Senior Living At Cross Keys,3152 Glassboro Cross Keys Road,,Glassboro,Assisted Living Residence,327903.673280256,319431.996918216
+285,NJ35A010,Woodbury Mews,122 Green Avenue,,Woodbury,Assisted Living Residence,309483.178951956,364840.755685487
+286,NJ30830,Brightview Woodbury Lake-Senior Assisted Living And Memory Care,752 Cooper Street,,Woodbury,Comprehensive Personal Care Home,314201.992741519,364568.987171039
+287,NJ82473,Twin Cedars Assisted Living,1456 Glassboro Road,,Wenonah,Comprehensive Personal Care Home,311642.299104705,352126.974075722
+288,NJ08C005,United Methodist Communities At Pitman,535 North Oak Avenue,,Pitman,Comprehensive Personal Care Home,312862.289838188,329881.778274145
+289,NJ60808,Cedar Grove Respiratory And Nursing Center,1420 South Black Horse Pike,,Williamstown,Long Term Care Facility,359471.579866686,305319.520696532
+290,NJ60804,Deptford Center For Rehabilitation And Healthcare,1511 Clements Bridge Rd,,Deptford,Long Term Care Facility,321669.188181772,363594.678926878
+291,NJ60806,Jefferson Health Care Center,535 Egg Harbor Road,,Sewell,Long Term Care Facility,332553.764678752,329818.251355423
+292,NJ08004,Manorcare Health Services-Washington Township,378 Fries Mill Road,,Sewell,Long Term Care Facility,337456.318523195,321221.770441268
+293,NJ60807,Manorcare Health Services- West Deptford,550 Jessup Road,,West Deptford,Long Term Care Facility,300547.492124745,363433.107179605
+294,NJ60805,Shady Lane Nursing Home,256 County House Road,,Clarksboro,Long Term Care Facility,291402.029850328,352627.860413488
+295,NJ30801,United Methodist Communities At Pitman,535 N Oak Ave,,Pitman,Long Term Care Facility,312862.289838188,329881.778274145
+296,NJ7U0NFD,Alaris Health At The Atrium,330 Ninth Street,,Jersey City,Nursing Home,617053.254459418,690744.766170841
+297,NJ60918,Alaris Health At The Fountains - North Campus,595 County Avenue,,Secaucus,Rehabilitation And Long-Term Care,614112.939920398,710073.965416005
+298,NJ30901,"Hudson Hills Senior Living, LLC",3505 Bergen Turnpike - 3167 Jfk Boulevard,,North Bergen,Assisted Living,621480.999317449,708049.174362343
+299,NJ60902,Hudsonview Health Care Center,9020 Wall Street,,North Bergen,Rehabilitation And Nursing Care,631855.980439358,718371.82123176
+300,NJ406001,Manhattanview Nursing Home,3200 Hudson Avenue,,Union City,Nursing Home,623229.369327419,705568.633818826
+301,NJ30905,Peace Care St Joseph's,537 Pavonia Avenue,,Jersey City,Nursing Home,614581.981888525,691619.553244192
+302,NJ60905,Alaris Health At Harbor View,178-198 Ogden Ave,,Jersey City,Nursing Home,618131.566661864,694990.544619881
+303,NJ30904,Peace Care St Ann's,198 Old Bergen Road,,Jersey City,Nursing Home,604911.734589885,678518.679002578
+304,NJ24396,Lutheran Senior Life At Jersey City,"377 Jersey Avenue, Suite 310",,Jersey City,Adult Day Care,616663.758297987,685682.935895374
+305,NJ403330,"Hudson Hills Senior Living, LLC",3505 Bergen Turnpike - 3167 Jfk Boulevard,,North Bergen,Assisted Living,621391.310850898,707995.407912833
+306,NJ60904,Alaris Health At Boulevard East,6819 Boulevard East,,Guttenberg,Nursing Home,630182.39427025,713298.957487682
+307,NJ408332,Ucp Of Hudson County Pediatric Medical Day Care,721 Broadway,,Bayonne,Pediatric Day Care And Respite Facility,599798.671892196,669867.552196576
+308,NJ60907,The Harborage,7600 River Road,,North Bergen,Nursing Home,631487.452929109,714338.686416558
+309,NJ11952,Alaris Health At Belgrove,195 Belgrove Drive,,Kearny,Nursing Home,586943.600974968,701587.904285903
+310,NJ60910,Alaris Health At Castle Hill,615 23Rd Street,,Union City,Nursing Home,621056.925612904,704873.662580844
+311,NJ60906,Alaris Health At Hamilton Park,525 Monmouth Street,,Jersey City,Nursing Home,617252.397955505,690822.735082512
+312,NJ60909,Alaris Health At Jersey City,198 Stevens Ave,,Jersey City,Nursing Home,605263.395564233,681804.483522889
+313,NJ10909L,Alaris Health At Kearny,206 Bergen Ave,,Kearny,Nursing Home,589329.763679211,701194.590082292
+314,NJ406100,Carepoint Health - Bayonne Hospital Center Transitional Care Unit,29 East 29Th Street,,Bayonne,Hospital - Transitional Care Unit,599527.207954858,668568.259390572
+315,NJ09006,Hoboken University Medical Center Transitional Care Unit,308 Willow Avenue,,Hoboken,Hospital - Transitional Care Unit,621326.25893101,695240.129671761
+316,NJ61006,Country Arch Care Center,114 Pittstown Road,,Pittstown,,370540.450945352,649294.198666489
+317,NJ61003,Little Brook Nursing And Convalescent Home,78 Sliker Road,,Califon,,391677.46233392,696439.329301086
+318,NJ45A000,Independence Manor At Hunterdon,188 State Highway 31,,Flemington,,393781.649711773,618803.498516915
+319,NJ61007,Hunterdon Care Center,1 Leisure Court,,Flemington,,394119.393648296,619695.672688961
+320,NJ61004,Rolling Hills Care Center,16 Cratetown Road,,Lebanon,,390959.280877196,640706.359010711
+321,NJ47C000,St. Mary's Assisted Living At Morris Hall,One Bishops Drive,,Lawrenceville,Assisted Living/Dementia Facility,426399.711544786,529882.22715966
+322,NJ21126L,St. Lawrence Rehabilitation Center,2381 Lawrenceville Road,,Lawrenceville,Hospital Based Subacute Units,426443.499198382,529918.459070745
+323,NJ61111,Hamilton Continuing Care,1059 Edinburg Road,,Hamilton,Nursing Home,448257.544163292,515889.738751058
+324,NJ61106,Mercerville Center,2240 Whitehorse-Mercerville Road,,Mercerville,Nursing Home,439566.555680864,508574.957225437
+325,NJ31103,Morris Hall Home For The Aged/St. Joseph's Nursing Center,1 Bishops Drive,,Lawrenceville,Nursing Home,426443.966358897,529917.821068531
+326,NJ21126,St. Lawrence Rehabilitation Center,2381 Lawrenceville Road,,Lawrenceville,Rehabs,426443.980834362,529918.459038925
+327,NJ11A015,St. Francis Assisted Living Program,601 Hamilton Avenue,,Trenton,Assisted Living Program,424569.034135009,504111.634329244
+328,NJ11A013,Artis Senior Living Of Princeton Junction,861 Alexander Road,,Princeton,Assisted Living Residence,455586.515367672,539432.764083193
+329,NJ11A017,Homestead At Hamilton,2560 Kuser Road,,Hamilton,Assisted Living Residence,449287.216321528,500131.361165043
+330,NJ11014,Atrium Post Acute Care Of Hamilton,3 Hamilton Health Place,,Hamilton,Long Term Care Facility,443178.845192628,503460.776660513
+331,NJ61107,Princeton Care Center,728 Bunn Drive,,Princeton,Long Term Care Facility,449814.417645116,563513.815651208
+332,NJD35022,Fox Trail Memory Care Living Princeton,181 Washington Road,,Princeton,Residential Dementia Care Home,455240.977519764,544208.410125485
+333,NJ12037,Rainbow Children's Medical Day Care,"100 Youngs Road, Suite 6",,Mercerville,Pediatric Day Health Care Services,442373.199736978,521442.531187536
+334,NJ11A006,"Ewing Independent Living - Assisted Living, Inc",1015 Whitehead Road Extension,,Ewing,Assisted Living Program,420475.835061531,520353.933927116
+335,NJ47A102,Abrams Residence,50 Walter Street,,Ewing,Assisted Living Residence,408257.942691343,520158.473370655
+336,NJ47A003,Acorn Glen,775 Mt. Lucas Road,,Princeton,Assisted Living Residence,449421.104877505,565343.995409572
+337,NJ8HEV7E,Bear Creek Assisted Living,291 Village Road East,,West Windsor,Assisted Living Residence,465724.71753558,522626.027557046
+338,NJ47A000,Brookdale Hamilton,1645 Whitehorse-Mercerville Road,,Trenton,Assisted Living Residence,439843.550604814,505151.277717285
+339,NJ47A001,Meadow Lakes,300 Meadow Lakes,,East Windsor,Assisted Living Residence,486914.653752683,518936.363798084
+340,NJ47A002,Rose Hill Assisted Living,1150 Washington Blvd,,Robbinsville,Assisted Living Residence,454590.41935969,506471.518143769
+341,NJ61104,Clover Meadows Healthcare And Rehabilitation Center,112 Franklin Corner Road,,Lawrenceville,Long Term Care Facility,431588.505576977,527549.893472605
+342,NJ31101,Greenwood House Home For The Jewish Aged,53 Walter Street,,Trenton,Long Term Care Facility,407791.339662208,520076.641360828
+343,NJ31102,Meadow Lakes,300 Meadow Lakes,,East Windsor,Long Term Care Facility,486914.653752683,518936.363798084
+344,NJ61105,Preferred Care At Hamilton,1501 State Hwy 33,,Hamilton Square,Long Term Care Facility,448407.46150356,506985.801045121
+345,NJ476003,Preferred Care At Mercer,1201 Parkway Avenue,,Ewing,Long Term Care Facility,408567.741063901,520407.533505354
+346,NJ61101,Providence Nursing And Rehabilitation Center,439 Bellevue Avenue,,Trenton,Long Term Care Facility,414579.040218532,508523.852295498
+347,NJ476002,Royal Health Gate Nursing & Rehabilitation,1314 Brunswick Avenue,,Trenton,Long Term Care Facility,423983.254300092,513497.955758281
+348,NJ61113,Water's Edge Healthcare & Rehabilitation,512 Union Street,,Trenton,Long Term Care Facility,419084.996200116,500484.619613433
+349,NJ61103,"Hamilton Grove Healthcare And Rehabilitation, LLC",2300 Hamilton Avenue,,Hamilton Township,Nursing Home,434728.841145374,509154.101717226
+350,NJ61112,Riverside Nursing And Rehabilitation Center,325 Jersey Street,,Trenton,Adult Day Care,422037.575809273,497885.876863303
+351,NJ478312,Riverside Pediatric Day Health Service Program,325 Jersey Street,,Trenton,Day Care Center,422037.575809273,497885.876863303
+352,NJ478313,Riverside Pediatric Day Health Service Program II,325 Jersey Street,,Trenton,Day Care Center,422037.575809273,497885.876863303
+353,NJX1KYQQ,Care One At Hamilton,1660 Whitehorse-Hamilton Square Road,,Hamilton Township,Assisted Living Residence,441723.859403868,502493.593162083
+354,ZRXUPT,Brandywine Living At Pennington,143 West Franklin Avenue,,Pennington,Assisted Living Facility,408671.924297938,546422.435149785
+355,NJ22293,Hackensack Meridian Health Jfk Johnson Rehabilitation Institute,65 James Street,,Edison,Rehabs,533773.231803533,627787.204350793
+356,48587,"Care One At Raritan Bay Medical Center, LLC",530 New Brunswick Avenue,,Perth Amboy,Long Term Care,552774.343804923,613990.880475924
+357,LHR4HN,Brandywine Living At Princeton,155 Raymond Road,,Princeton,Assisted Living Residence,468580.789219473,563167.556619561
+358,NJ50A006,Whispering Knoll Assisted Living,62 James Street,,Edison,Assisted Living Residence,533717.130578589,629114.843425695
+359,NJ61218,Hartwyck At Oak Tree,2048 Oak Tree Road,,Edison,Long Term Care Facility,527423.720066507,635241.599920658
+360,NJ61217,Madison Center,625 State Highway 34,,Matawan,Long Term Care Facility,561625.196868917,577166.982509062
+361,NJ62202,Atrium Post Acute Care Of Princeton,5000 Windrow Drive,,Princeton,Long Term Care Facility,459710.291216802,555433.461498238
+362,NJ12056,Powerback Rehabilitation Piscataway,10 Sterling Drive,,Piscataway,Long Term Care Facility,498865.023958709,620545.453509325
+363,NJ50C000,St. Joseph's Seniors' Home Nursing Center & Assisted Living,1-3 St. Joseph'S Terrace,,Woodbridge,Comprehensive Personal Care Home,554316.087548629,623884.13753973
+364,NJ61210,Summer Hill Nursing Home,111 Route 516,,Old Bridge,Long Term Care Facility,533652.485851839,573846.784379601
+365,NJ12038,Little Stars Children's Medical Day Care,225 North Center Drive,,North Brunswick Township,Pediatric Day Health Care Services,491540.361101595,587601.022949736
+366,NJD35021,Fox Trail Memory Care Living South River,69 Burton Avenue,,South River,Residential Dementia Care Home,522172.198928952,591399.785541138
+367,NJD35002,Goldenview Living,1313 Aaron Road,,North Brunswick Township,Residential Dementia Care Home,487226.613912386,586911.371822771
+368,NJ50A8312,Monroe Village Assisted Living,One David Brainerd Drive,,Monroe Township,Assisted Living Residence,504967.744156344,548008.101845198
+369,NJD35006,Millennium Memory Care At Monroe,310 Buckelew Avenue,,Monroe Township,Residential Dementia Care Home,513589.51439926,549771.563780649
+370,NJ503300,Hartwyck At Oak Tree,2048 Oak Tree Road,,Edison,Residential Health Care,527423.720066507,635241.599920658
+371,NJ12039,Parker At Monroe,395 School House Road,,Monroe Township,Long Term Care Facility,519460.571043306,546302.657215002
+372,NJ11103L,Merwick Care & Rehabilitation Center,100 Plainsboro Road,,Plainsboro Township,Long Term Care Facility,457978.599774934,547417.385530984
+373,NJ61220,"Preferred Care At Old Bridge, LLC",6989 Rt18,,Old Bridge,Long Term Care Facility,539307.168515935,564377.027416188
+374,NJ61204,Rose Mountain Care Center,Route 1 & 18,,New Brunswick,Long Term Care Facility,515043.054377202,601740.341835252
+375,NJ61223,St. Joseph's Home Assisted Living & Nursing Ctr Inc DBA St. Joseph's Senior Home,1-3 St Joseph'S Terrace,,Woodbridge,Long Term Care Facility,554316.087548629,623884.13753973
+376,NJ12035,The Venetian Care & Rehabilitation Center,275 John T O'Leary Boulevard,,South Amboy,Long Term Care Facility,554072.148799355,599098.653449814
+377,NJ61201,Amboy Care Center,1 Lindberg Avenue,,Perth Amboy,Long Term Care Facility,553147.308152699,619718.1859589
+378,NJ50A110,Heritage At Clara Barton,1015 Amboy Avenue,,Edison,Assisted Living Program,537395.936207303,619508.872473861
+379,NJ90112,Atrium Senior Living Of Princeton,1000 Windrow Drive,,Princeton,Assisted Living Residence,459900.20427661,555334.631192102
+380,NJ50A001,Brighton Gardens Of Edison,1801 Oak Tree Road,,Edison,Assisted Living Residence,533180.584772218,633124.714823444
+381,NJ50A003,Brookdale Monroe,380 Forsgate Drive,,Monroe Township,Assisted Living Residence,499096.270255854,550163.524564765
+382,NJ50A000,The Chelsea At East Brunswick,606 Cranbury Road,,East Brunswick,Assisted Living Residence,514310.190487016,573639.87058144
+383,NJ82462,The Chelsea At Forsgate,319 Forsgate Drive,,Monroe Township,Assisted Living Residence,504551.68669852,549739.334323312
+384,NJ50A005,Heritage At Clara Barton,1015 Amboy Avenue,,Edison,Assisted Living Residence,537395.936207303,619508.872473861
+385,NJ12A007,Parker At Stonegate,443 River Road,,Highland Park,Assisted Living Residence,508019.882978574,610627.826103651
+386,NJ50A002,Reformed Church Home,1990 Route 18 North,,Old Bridge,"Nursing Home, Rehabilitation, And Assisted Living Residence",540115.25998591,564962.620628873
+387,NJ50A004,Sunrise Assisted Living Of East Brunswick,190 Summerhill Road,,East Brunswick,Assisted Living Residence,522997.811508862,579617.346600825
+388,NJ61209,Alameda Center For Rehabilitation And Healthcare,303 Elm Street,,Perth Amboy,Long Term Care Facility,554921.557731364,611091.754745258
+389,NJ61216,Aristacare At Cedar Oaks,1311 Durham Avenue,,South Plainfield,Long Term Care Facility,517630.849162103,623888.951292817
+390,NJ61222,Brighton Gardens Of Edison,1801 Oaktree Road,,Edison,Long Term Care Facility,533180.584772218,633124.714823444
+391,NJ61202,Care One At The Highlands,1350 Inman Avenue,,Edison,Long Term Care Facility,523947.38392885,642442.994442374
+392,NJ61224,Cranbury Center,292 Applegarth Road,,Monroe Township,Long Term Care Facility,499341.289073767,538324.826463547
+393,NJ61211,The Elms Of Cranbury,61 Maplewood Avenue,,Cranbury Township,Long Term Care Facility,488892.768798191,539739.56069193
+394,NJ61213,Francis E Parker Memorial Home Piscataway - Parker At River Road,1421 River Road,,Piscataway,Long Term Care Facility,507650.621133694,610658.034077483
+395,NJ61109,The Gardens At Monroe Healthcare And Rehabilitation,189 Applegarth Road,,Monroe Township,Long Term Care Facility,499338.91466486,529698.26206287
+396,NJ61205,Jfk Hartwyck At Edison Estates,10 Brunswick Avenue,,Edison,Long Term Care Facility,516445.540707148,616732.090068384
+397,NJ51225,New Jersey Veterans Memorial Home Menlo Park,132 Evergreen Rd,,Edison,Long Term Care Facility,539217.782803621,627143.583867529
+398,NJ61345,Park Place Center,2 Deer Park Drive,,Monmouth Junction,Long Term Care Facility,468568.238461083,562192.150748948
+399,NJ30709,Reformed Church Home,1990 Route 18 North,,Old Bridge,Long Term Care Facility,540115.25998591,564962.620628873
+400,NJ55501,Roosevelt Care Center,118 Parsonage Road,,Edison,Long Term Care Facility,537331.989030649,625692.806949638
+401,NJ12023,Roosevelt Care Center At Old Bridge,1133 Marlboro Road,,Old Bridge,Long Term Care Facility,542410.396172097,557556.683400966
+402,NJ61219,Village Point,Three David Brainerd Drive,,Monroe Township,Long Term Care Facility,505390.73096285,547586.70413462
+403,NJ61206,Francis E Parker Memorial Home New Brunswick - Parker At Landing Lane,501 Easton Avenue,,New Brunswick,Nursing Home,501591.026262504,608879.674493507
+404,NJNDFH9U,Care One At East Brunswick,599 Cranbury Road,,East Brunswick,Long Term Care Facility,513821.355155044,573813.242926938
+405,NJ55A007,Brandywine Senior Living At The Sycamore,5 Meridian Way,,Shrewsbury,Assisted Living/Dementia Facility,612591.208062628,540613.483629578
+406,NJ55A008,Sunrise Assisted Living Of Wall,2600 Allaire Road,,Wall,Assisted Living/Dementia Facility,615206.831235155,481373.105601526
+407,NJ24878,Beacon Of Life,1075 Stephenson Avenue,,Oceanport,Pace,620667.942375749,537601.29619068
+408,NJ22922,Encompass Health Rehabilitation Hospital Of Tinton Falls,2 Centre Plaza,,Tinton Falls,Rehabs,609374.000576983,528213.861884976
+409,13a010,Meridian Living At Manalapan Hackensack Meridian Health,195 Us 9 #113,,Manalapan Township,Assisted Living/Dementia Facility,546577.09917845,534444.6831146
+410,NJ55A004,Atria Tinton Falls,44 Pine Street,,Tinton Falls,Assisted Living Residence,608766.260399832,513488.423463254
+411,NJ55A002,Brandywine Living At Governor's Crossing,49 Lasatta Avenue,,Englishtown,Assisted Living Residence,528423.89746616,533052.44253058
+412,NJ55A112,Brandywine Living At Wall,2021 Highway 35,,Wall,Assisted Living Residence,615805.925624363,480085.622507735
+413,05MOOY,The Chelsea At Manalapan,445 Route 9 South,,Manalapan,Assisted Living Residence,546162.393097911,543404.750063298
+414,NJ13A019,"Chelsea At Shrewsbuuury, The",515 Shrewsbury Avenue,,Shrewsbury,Assisted Living Residence,611043.692170024,546515.904414826
+415,NJ13A014,The Solana Marlboro,52 County Road 520,,Morganville,Assisted Living Residence,546874.038887252,553476.254772748
+416,NJ13A015,Sunnyside Manor,2500 Ridgewood Road,,Wall,Assisted Living Residence,607809.194558398,477261.687072876
+417,NJ1EGWIO,Wellington Estates,2018 Highway 35,,Spring Lake,Assisted Living Residence,616491.974669531,480008.790620006
+418,NJ55A003,The Willows At Holmdel,713 N Beers Street,,Holmdel,Assisted Living Residence,577384.226436376,574145.729212042
+419,NJ61314,Allaire Rehab & Nursing,115 Dutch Lane Road,,Freehold,Long Term Care Facility,558959.139377889,523502.717996906
+420,NJ61303,Anchor Care And Rehabilitation Center,3325 Highway 35,,Hazlet,Long Term Care Facility,578074.131612522,579213.512542784
+421,NJ13A303,Arbor Terrace Of Middletown,1800 Highway 35 South,,Middletown,Assisted Living Residence,594904.815355573,573479.614673435
+422,NJ31304,The Atrium At Navesink Harbor,40 Riverside Avenue,,Red Bank,Long Term Care Facility,611492.431144756,553489.763634516
+423,NJ61342,Bayshore Health Care Center,715 North Beers Street,,Holmdel,Long Term Care Facility,577553.245233111,573771.668017567
+424,NJ61315,Care One At King James,1040 Route 36,,Atlantic Highlands,Long Term Care Facility,627265.484172865,573161.23363666
+425,NJ62207,De La Salle Hall,810 Newman Springs Rd,,Lincroft,Long Term Care Facility,592962.233248147,547060.97296842
+426,NJ61325,Majestic Rehabilitation And Nursing At Red Bank,100 Chapin Avenue,,Red Bank,Long Term Care Facility,607153.758005124,548333.052283636
+427,NJ61335,Imperial Care Center,919 Green Grove Road,,Neptune,Long Term Care Facility,611269.148471972,507302.632245853
+428,NJ62214,Jersey Shore Center,3 Industrial Way East,,Eatontown,Long Term Care Facility,619606.413734828,526597.523119112
+429,NJ13011,Jewish Home For Rehabilitation And Nursing,1151 West Main Street,,Freehold,Long Term Care Facility,542238.300923043,509367.256980684
+430,NJ61341,King Manor Care And Rehabilitation Center,2303 West Bangs Ave,,Neptune,Long Term Care Facility,620834.769096338,504869.936004017
+431,NJ61333,Laurel Bay Health & Rehabilitation Center,32 Laurel Avenue,,Keansburg,Long Term Care Facility,591648.021098772,588819.155991186
+432,NJ61326,Meridian Nursing & Rehabilitation At Shrewsbury,89 Avenue At The Common,,Shrewsbury,Long Term Care Facility,615051.740008523,540166.10982168
+433,NJ13301,Meridian Subacute Rehabilitation,1725 Meridian Trail,,Wall,Long Term Care Facility,613607.182442249,488109.020236537
+434,NJ61329,Sunnyside Manor,2500 Ridgewood Road,,Wall,Long Term Care Facility,607809.194558398,477261.687072876
+435,NJ61331,Tower Lodge Care Center,1506 Gully Road,,Wall,Long Term Care Facility,610392.074467137,494128.311607363
+436,NJ13004,Wedgwood Gardens Care Center,3419 Highway 9,,Freehold,Long Term Care Facility,556136.451900829,508131.388098386
+437,NJD35027,"Millennium Memory Care At Holmdel, LLC",92 Stillwell Road,,Holmdel,Residential Dementia Care Home,590226.2095848,554073.364032104
+438,NJD35005,Millennium Memory Care At Matawan,447 Matawan Avenue,,Cliffwood,Residential Dementia Care Home,567574.623214285,583259.252653055
+439,NJD35007,Millennium Memory Care At Ocean,111 Bowne Road,,Ocean,Residential Dementia Care Home,614351.096686424,509603.659658258
+440,NJ13A003,Applewood Estates Assisted Living Residence,One Applewood Drive,,Freehold,Assisted Living Residence,543561.304590075,515498.721078984
+441,NJ55A006,Atrium Senior Living Of Matawan,40 Freneau Avenue,,Matawan,Assisted Living Residence,565237.022243188,570716.947189776
+442,NJ90115,Bayside Manor,7 Laurel Avenue,,Keansburg,Assisted Living Residence,591279.63849566,588947.301072349
+443,C9LQB9,Brandywine Assisted Living At Howell,100 Meridian Place,,Howell,Assisted Living Residence,563511.44661901,489686.612378459
+444,NJ55A001,Brighton Gardens Of Middletown,620 State Highway 35 South,,Middletown,Assisted Living Residence,605134.692392729,564422.427716118
+445,NJ55A000,The Chelsea At Tinton Falls,One Hartford Drive,,Tinton Falls,Assisted Living Residence,610462.628901864,545400.2879797
+446,NJ55A009,Mattison Crossing At Manalapan Ave,93 Manalapan Avenue,,Freehold,Assisted Living Residence,551788.195823831,519737.103659548
+447,NJ55A005,Monmouth Crossing,560 Iron Bridge Road,,Freehold,Assisted Living Residence,545232.064744313,510724.396892348
+448,COGCWM,Sunrise Assisted Living Of Lincroft,734 Newman Springs Road,,Lincroft,Assisted Living Residence,596783.733971323,546190.656559239
+449,0L9278,Sunrise Assisted Living Of Marlboro,3A South Main Street,,Marlboro,Assisted Living Residence,562484.75265858,539133.512061022
+450,NJ82471,Allegria Assisted Living,70 Stockton Avenue,,Ocean Grove,Comprehensive Personal Care Home,628997.541299896,500868.545563379
+451,NJ61343,Applewood Estates,1 Applewood Drive,,Freehold,Long Term Care Facility,543561.304590075,515498.721078984
+452,NJ61301,Arnold Walter Nursing Home,622 S Laurel Avenue,,Hazlet,Long Term Care Facility,591715.925941611,579310.300237434
+453,NJ556200,Atrium Post Acute Care Of  Matawan,38 Freneau Avenue,,Matawan,Long Term Care Facility,565237.022243188,570716.947189776
+454,NJ61312,Care One At Holmdel,188 Highway 34,,Holmdel,Long Term Care Facility,576785.530311304,554076.913703436
+455,NJ556213,Care One At Wall,2621 Highway 138,,Wall,Long Term Care Facility,613750.637504532,487245.954186889
+456,NJ61317,Coral Harbor Rehabilitation And Healthcare Center,2050 Sixth Ave,,Neptune City,Long Term Care Facility,620300.694412053,500415.882573039
+457,NJ61305,Gateway Care Center,139 Grant Ave,,Eatontown,Long Term Care Facility,614180.472027671,532061.696147094
+458,NJ61307,The Manor,689 West Main St,,Freehold,Long Term Care Facility,545386.048071426,511688.576937267
+459,NJ61344,Meridian Nursing And Rehabilitation At Ocean Grove,160 Main Street,,Ocean Grove,Long Term Care Facility,627451.480345072,501307.387287817
+460,NJ61318,Monmouth Care Center,229 Bath Avenue,,Long Branch,Long Term Care Facility,634429.167549836,532346.688028388
+461,NJ61304,"Neptune Gardens Nursing And Rehab, LLC",101 Walnut St,,Neptune,Long Term Care Facility,618155.245987256,500611.42495036
+462,NJ61323,Pine Brook Care Center,104 Pension Road,,Englishtown,Long Term Care Facility,534440.901541662,540125.1926981
+463,NJ61330,Preferred Care At Wall,2350 Hospital Road,,Allenwood,Long Term Care Facility,596122.223235849,475293.821084984
+464,NJ61310,Wardell Gardens At Tinton Falls,524 Wardell Road,,Tinton Falls,Long Term Care Facility,603958.892495928,506785.51489064
+465,NJQ3VL3S,Continuing Care At Seabrook,3002 Essex Road,,Tinton Falls,Nursing Home,607952.156970051,510268.420111207
+466,T5SN2I,Continuing Care At Seabrook,3000 Essex Road,,Tinton Falls,Assisted Living Residence,607952.574143572,510265.44975988
+467,Q4VDWW,Arbor Terrace Shrewsbury,864 Shrewsbury Avenue,,Tinton Falls,Assisted Living Residence,611096.418149641,540403.954244113
+468,NJ13A012,Arbor Terrace Morris Plains,361 Speedwell Avenue,,Morris Plains,,497615.776190465,724789.900025429
+469,NJ60A003,Arden Courts Of Whippany,18 Eden Lane,,Whippany,,513613.637475833,723458.641368513
+470,NJ60A001,Brighton Gardens Of Florham Park,21 Ridgedale Avenue,,Florham Park,,518820.768048657,706461.990726322
+471,NJ60A013,Brightview Randolph-Senior Independent Living,175 Quaker Church Road,,Randolph,"Assisted Living, Memory Care",475241.573015995,740039.683031908
+472,NJ60A000,Brookdale Florham Park,8 James Street,,Florham Park,,523543.20191213,712369.896173577
+473,NJ60A008,Bentley Commons At Paragon Village,425 Us - Route 46 East,,Hackettstown,,412252.076557597,735172.820949869
+474,NJ31446,"Chelsea At Montville, The",165 Changebridge Road,,Montville,,528993.310566434,748826.560577222
+475,NJ60A006,Juniper Village At Chatham,500 Southern Boulevard,,Chatham,,511614.678106148,696053.573113118
+476,NJ14A002,"Merry Heart Assisted Living, LLC",118 Main Street,,Succasunna,,453132.43136434,741604.728669707
+477,922TYU,Mt Arlington Senior Living,2 Hillside Drive,,Mount Arlington,,453667.391855256,754214.761822263
+478,NJ60A002,"Oaks At Denville, The",19 Pocono Road,,Denville,,500609.990055114,750926.533056733
+479,NJ60A005,Spring Hills Morristown-Assisted Senior Living Facility,17 Spring Place,,Morristown,,498661.172473813,715840.753726267
+480,NJ60A009,Sunrise Of Madison,215 Madison Avenue,,Madison,,510994.855041775,705374.670624456
+481,NJ90117,Sunrise Of Morris Plains,209 Littleton Road,,Morris Plains,,501594.926147964,730924.732563515
+482,NJ60A012,Sunrise Of Randolph,648 Nj- Route 10,,Randolph,,469794.591132578,739069.604905518
+483,NJ14C014,"Villa At Florham Park, The",190 Park Avenue,,Florham Park,,510935.168218106,711766.974957916
+484,NJ60A010,"Villa At Florham Park, The",190 Park Avenue,,Florham Park,,510935.168218106,711766.974957916
+485,NJ23144,Kindred Hospital New Jersey- Morris,400 West Blackwell Street,,Dover,,470812.833829179,747275.42309028
+486,NJ14004,Care One At Hanover,101 Whippany Road,,Whippany,,514381.04814304,722560.942517078
+487,NJ60921,Care One At Madison Avenue,151 Madison Avenue,,Morristown,,503327.664255576,711913.226274444
+488,NJ61407,Chatham Hills Subacute Care Center,415 Southern Blvd,,Chatham,,511910.869496104,693632.531368785
+489,NJ61403,Garden Terrace Nursing Home,361 Main Street,,Chatham,,523355.462951024,695066.696829098
+490,NJ61409,Lincoln Park Care Center,499 Pine Brook Road,,Lincoln Park,,545987.111226491,758559.466912679
+491,NJ61408,Renaissance At Lincoln Park,521 Pine Brook Road,,Lincoln Park,,545407.786247542,758765.051289202
+492,NJ61410,Merry Heart Nursing Home,200 Rt 10 West,,Succasunna,,452965.765578158,741756.867514172
+493,NJ61411,Morris View Healthcare Center,540 West Hanover Avenue,,Morristown,,486212.347548619,727751.9555838
+494,NJ61419,New Jersey Firemen's Home,565 Lathrop Ave,,Boonton,,520759.256279356,753503.5249739
+495,NJ61413,Pine Acres Healthcare And Rehabilitation Center,51 Madison Ave,,Madison,,513513.90573561,703240.474398009
+496,NJ61416,Troy Hills Center,200 Reynolds Ave,,Parsippany,,519117.058654255,733939.515527601
+497,NJ60920,"Villa At Florham Park, Inc The",190  Park Avenue,,Florham Park,,510935.168218106,711766.974957916
+498,NJ1140MKD,Atlantic Rehabilatation Institute,95 Mount Kemble Avenue,,Morristown,,495089.77342965,712548.66960922
+499,NJ21401KWF,Kessler Inst. For Rehabilitation Chester,201 Pleasant Hill Road,,Chester Township,,440788.497818984,723478.041605017
+500,NJD35024,Beverwyck House Of Merry Heart,420 S Beverwyck Road,,Parsippany,,521898.187615291,735727.941885973
+501,NJ603334,Boonton Care Center,199 Powerville Road #8840,,Boonton,,511419.301252119,758819.401761453
+502,NJD35009,The Country Home Dementia Care,1095 Tabor Road,,Morris Plains,,499929.828206536,740322.186993288
+503,NJD35011,Fox Trail Memory Care Living At Chester,115 Us- Route 206,,Chester Township,,432953.829181585,718237.173097632
+504,NJD35017,Fox Trail Memory Care Living Montville,55 River Road,,Montville,,526399.991268803,755111.709484525
+505,NJ603330,Heath Village Retirement Community,430 Schooley'S Mountain Road,,Hackettstown,,403884.175750274,724813.930418285
+506,NJ61406,Holly Manor Center,84 Cold Hill Road,,Mendham,,467839.923366065,712537.392037292
+507,NJAL14001,Sycamore Living At East Hanover,1 South Ridgedale Avenue,,East Hanover,,521489.978693159,720682.434949535
+508,NJCIU4PK,Saint Clare's Hospital - Dover,400 West Blackwell Street,,Dover,,471007.424273134,747238.981966591
+509,NJ11402L,The Dwelling Place At Saint Clare's,400 West Blackwell St,,Dover,,471007.424273134,747238.981966591
+510,NJ31402,Heath Village Retirement Community,430 Schooley'S Mountain Rd,,Hackettstown,,403899.601672261,724829.340600881
+511,NJ61424,"Oaks At Denville, The",21 Pocono Road,,Denville,,500603.294595035,750936.145165918
+512,NJ603333,New Jersey Firemen's Home,565 Lathrop Avenue,,Boonton,,520759.697864009,753500.509246424
+513,NJ60A007,Care One At Morris,200 Mazdabrook Road,,Parsippany,,519199.0247617,738223.552001158
+514,NJ60A011,Cedar Crest/Mountainview Gardens,4 Cedar Crest Drive,,Pequannock,,540687.337029645,783181.211738886
+515,NJ60A004,Victoria Mews Assisted Living,51 North Main Street,,Boonton Township,,514122.225309561,757444.719061295
+516,NJ61415,Boonton Care Center,199 Powerville Road,,Boonton,,511505.455470441,758953.992890165
+517,NJ60922,Cedar Crest/Mountainview Gardens,4 Cedar Crest Drive,,Pequannock,,540687.337029645,783181.211738886
+518,NJ61417,Morristown Post Acute,77 Madison Avenue,,Morristown,,501596.545211105,711783.808270253
+519,NJ61423,Regency Grande Nursing And Post-Acute Rehabilitation Center,65 North Sussex Street,,Dover,,475719.288619715,747987.249969099
+520,QPB2N9,Weston Assisted Living,905 Nj - 10,,Whippany,,511527.219328755,725326.671860238
+521,NJPSIFQU,Care One At Morris,100 Mazdabrook Road,,Parsippany Troy Hill,,519059.97927769,738141.869483357
+522,NJNH14002,Sycamore Living At East Hanover,1 S Ridgedale Ave,,East Hanover,,521488.528750038,720681.694341491
+523,NJ15A116,Artis Senior Living At Brick,466 Jack Martin Blvd,,Brick Township,Assisted Living/Dementia Facility,594767.981311571,454555.765532165
+524,NJ90143,Brandywine Senior Living At The Gables,515 Jack Martin Blvd,,Brick,Assisted Living/Dementia Facility,593989.413841187,454197.668843257
+525,NJ65A007,"Chelsea At Brick, The",458 Jack Martin Blvd.,,Brick,Assisted Living/Dementia Facility,595030.783248691,454399.813992053
+526,NJ23142,Specialty Hospital Of Central Jersey,"600 River Avenue, 4 West",,Lakewood,Long Term Care,570894.762975841,451714.430008564
+527,NJ21525,Encompass Health Rehabilitation Hospital Of Toms River,14 Hospital Drive,,Toms River,Rehabs,571321.924014029,411347.957302499
+528,NJ65A112,Brandywine Living At Toms River,1587 Old Freehold Road,,Toms River,Assisted Living Residence,576013.835512778,427304.28419375
+529,NJ15A115,Care One At Jackson Assisted Living,11 History Lane,,Jackson,Assisted Living Residence,557478.077032782,470906.476679308
+530,NJ65A114,The Chelsea At Toms River,1657 Silverton Road,,Toms River,Assisted Living Residence,581246.974660678,433393.318824517
+531,NJ65A004,Complete Care At Shorrock Gardens,75 Old Toms River Road,,Brick,Assisted Living Residence,587983.827775968,434132.356170745
+532,NJ65A006,Spring Oak Assisted Living At Forked River,601 North Main Street,,Lanoka Harbor,Assisted Living Residence,582932.496269411,373246.522170045
+533,NJ15A112,Sunrise Assisted Living Of Jackson,390 North County Line Road,,Jackson,Assisted Living Residence,547176.900261207,476837.883360734
+534,NJ61525,Care One At Jackson,11 History Lane,,Jackson,Long Term Care Facility,557302.656851355,470775.530969674
+535,NJ61531,Complete Care At Green Acres,1931 Lakewood Road,,Toms River,Long Term Care Facility,570929.17236827,433331.728032338
+536,NJ656003,Complete Care At Shorrock Haven,75 Old Toms River Road,,Brick,Long Term Care Facility,587983.827775968,434132.356170745
+537,NJ61511,Rose Garden Nursing And Rehabilitation Center,1579 Old Freehold Road,,Toms River,Long Term Care Facility,576001.915654221,427558.960936768
+538,NJ61522,Seacrest Village,1001 Center St,,Little Egg Harbor Tw,Long Term Care Facility,525797.368020351,270866.644795422
+539,NJ61533,"Springpoint At Crestwood, Inc",50 Lacey Road,,Whiting,Long Term Care Facility,530883.171302097,404595.103342643
+540,NJ656005,Tallwoods Care Center,18 Butler Boulevard,,Bayville,Long Term Care Facility,587937.943458048,384615.108204948
+541,NJ61534,Whiting Health Care Center,3000 Hilltop Road,,Whiting,Long Term Care Facility,525840.930197725,411953.681849123
+542,NJD35001,Alcoeur Gardens At Brick,320 Herbertsville Road,,Brick,Residential Dementia Care Home,604205.263766155,459938.092034284
+543,NJD35000,Alcoeur Gardens At Toms River,1126 Route 166,,Toms River,Residential Dementia Care Home,573866.776296839,416815.5868318
+544,NJ65A001,Georgetown Commons At The Pines At Whiting,509 Route 530,,Whiting,Assisted Living Residence,533738.067373318,405913.371355463
+545,NJ62216,Hamilton Place At The Pines At Whiting,507 Route 530,,Whiting,Long Term Care Facility,533700.639997193,405894.198230155
+546,NJ15A101,Spring Oak Of Toms River,2145 Whitesville Road,,Toms River,Assisted Living Program,564387.966473885,439723.601410256
+547,NJ65A002,Atria Stafford,1275 Route 72,,Manahawkin,Assisted Living Residence,551383.911688911,324112.539884585
+548,NJ65A008,Bella Terra Assisted Living Residence,2 Kathleen Drive,,Jackson,Assisted Living Residence,557322.490297851,471590.841854381
+549,NJ65A005,Brandywine Living At Reflections,1594 Route 88,,Brick,Assisted Living Residence,594008.08847152,453702.944910088
+550,NJ65A000,Brighton Gardens Of Leisure Park,1400 Route 70,,Lakewood,Assisted Living Residence,583363.320694759,444209.998630842
+551,NJ90119,Complete Care At Arbors Haven,1700 Route 37 West,,Toms River,Assisted Living Residence,556760.722088187,422845.634420096
+552,NJ65A003,Hearthstone Estates,77 Williams Street,,Lakewood,Assisted Living Residence,570391.180148518,452807.619300764
+553,NJ65A111,The Lakewood Courtyard,52 Madison Avenue,,Lakewood,Assisted Living Residence,571400.687316167,457750.71261893
+554,NJ65A113,Spring Oak Of Toms River,2145 Whitesville Road,,Toms River,Assisted Living Residence,564387.966473885,439723.601410256
+555,NJ15A113,The Terraces At Seacrest Village,281 Mathistown Road,,Little Egg Harbor Tw,Assisted Living Residence,527389.040592215,273709.384482526
+556,NJ65C000,"Complete Care At Bey Lea, LLC",1351 Old Freehold Road,,Toms River,Comprehensive Personal Care Home,577329.232307379,421475.464173672
+557,NJ65C003,Leisure Park Special Care Center,1400 Route 70,,Lakewood,Comprehensive Personal Care Home,583364.388131007,444210.002538397
+558,NJ61517,Aristacare At Manchester,1770 Tobias Avenue,,Manchester,Long Term Care Facility,547422.122100629,430668.911907468
+559,NJ61523,Aristacare At Whiting,23 Schoolhouse Road,,Whiting,Long Term Care Facility,536161.416861575,401473.034510893
+560,NJ61504,Atlantic Coast Rehabilitation & Health Care,485 River Ave,,Lakewood,Long Term Care Facility,571614.085649639,452813.723378444
+561,NJ61524,Barnegat Rehabilitation And Nursing Center,859 West Bay Ave,,Barnegat,Long Term Care Facility,565203.340614218,336303.888173422
+562,NJ61521,Bartley Healthcare Nursing And Rehabilitation,175 Bartley Road,,Jackson,Long Term Care Facility,553558.210672218,474128.200347228
+563,NJ22248L,Children's Specialized Hospital,94 Stevens Road,,Toms River,Long Term Care Facility,569968.772803372,428555.181632419
+564,NJ656100,Community Medical Center TCU,99 Route 37 West,,Toms River,Long Term Care Facility,571683.259216949,412117.729452852
+565,NJ61537,Complete Care At Arbors,1750 Route 37 West,,Toms River,Long Term Care Facility,557144.221102607,422026.905313049
+566,NJ61529,"Complete Care At Bey Lea, LLC",1351 Old Freehold Road,,Toms River,Long Term Care Facility,577329.232307379,421475.464173672
+567,NJ61526,Complete Care At Holiday City,4 Plaza Drive,,Toms River,Long Term Care Facility,563892.518434643,414288.975615706
+568,NJ61532,"Complete Care At Laurelton, LLC",475 Jack Martin Blvd,,Brick,Long Term Care Facility,594424.107201291,454156.216932485
+569,NJ61519,Concord Healthcare & Rehabilitation Center,963 Ocean Ave,,Lakewood,Long Term Care Facility,582300.176694516,456915.271509037
+570,NJ61502,Crest Pointe Rehabilitation And Healthcare Center,1515 Hulse Road,,Pt Pleasant,Long Term Care Facility,614941.002029003,452673.84878831
+571,NJ61501,Crystal Lake Healthcare And Rehabilitation Center,395 Lakeside Blvd,,Bayville,Long Term Care Facility,577657.356805898,386367.352459593
+572,NJ61536,Fountain View Care Center,527 River Ave,,Lakewood,Long Term Care Facility,571616.011910819,452184.244917147
+573,NJ61535,Hampton Ridge Healthcare And Rehabilitation,94 Stevens Road,,Toms River,Long Term Care Facility,569968.772803372,428555.181632419
+574,NJ61528,Harrogate,400 Locust Street,,Lakewood,Long Term Care Facility,573943.417863432,441665.450044892
+575,NJ61515,Leisure Chateau Rehabilitation,962 River Ave,,Lakewood,Long Term Care Facility,570224.851393053,447577.076344918
+576,NJ61527,Leisure Park Health Center,1400 Route 70,,Lakewood,Long Term Care Facility,583364.388131007,444210.002538397
+577,NJ61520,Manahawkin Convalescent Center,1211 Rt 72 West,,Manahawkin,Long Term Care Facility,551118.418721572,323538.421249228
+578,NJ62217,Meridian Nursing And Rehabilitation At Brick,415 Jack Martin Blvd,,Brick,Long Term Care Facility,596073.615042326,452979.371164038
+579,NJ656004,Mystic Meadows Rehab & Nursing Center,151 Ninth Avenue,,Little Egg Harbor Tw,Long Term Care Facility,536001.805675592,285757.601385998
+580,NJ656002,Shore Meadows Rehabilitation And Nursing Center,231 Warner Street,,Toms River,Long Term Care Facility,563856.82869023,437769.842628808
+581,NJ80413,Southern Ocean Center,1361 Route 72 West,,Manahawkin,Long Term Care Facility,550838.258811978,324940.894708444
+582,NJJWOWMI,Southern Ocean Medical Center,1140 Route 72 West,,Manahawkin,Long Term Care Facility,552760.803897269,323359.137631478
+583,NJ61518,Willow Springs Rehabilitation And Healthcare Center,1049 Burnt Tavern Road,,Brick,Long Term Care Facility,595537.940634258,458616.861983862
+584,NJ158337,Manchester Pediatric Medical Day Care,1770 Tobias Avenue,,Manchester,Pediatric Day Health Care Services,547422.122100629,430668.911907468
+585,3EGDKS,The Orchards At Bartley Assisted Living,100 North County Line Road,,Jackson Township,Assisted Living,553178.485936608,473803.651686752
+586,YMOSFX,Magnolia Gardens,1935 Lakewood Road,,Toms River,Assisted Living Residence,570512.593981016,433241.697529805
+587,NJ16A023,The Bristal Assisted Living At Wayne,1440 Hamburg Turnpike,,Wayne,,560161.646919461,776483.883078499
+588,NJ24048,Kindred Hospital New Jersey - Wayne,224 Hamburg Turnpike,,Wayne,,574084.503097849,769923.478842239
+589,NJ16A001,Chestnut Hill Residence,338 Chestnut Street #1,,Passaic,,592715.457113391,740199.07614179
+590,NJ61631,The Health Center At Bloomingdale,255 Union Ave,,Bloomingdale,,543089.367535011,794942.167814869
+591,NJ8XD1WY,Van Dyk Health Care At Park Place,644 Goffle Road,,Hawthorne,,585318.647404577,773204.314490587
+592,NJ16008,"Barnert Subacute Rehabilitation Center, LLC",680 Broadway Suite 301,,Paterson,,590478.354501481,759422.004738263
+593,NJ61630,Complete Care At Fair Lawn Edge,77 East 43Rd Street,,Paterson,,593852.145088883,759780.2918659
+594,NJ70A001,Sunrise Of Wayne,184 Berdan Avenue,,Wayne,,563330.913164907,777040.385726434
+595,NJ61601,Atrium Post Acute Care Of Wayne,1120 Alps Road,,Wayne,,562929.23717756,769168.261275657
+596,NJ61629,Atrium Post Acute Care Of Wayneview,2020 Nj - Route 23 North,,Wayne,,553781.733367462,771256.645354385
+597,NJ31601,Daughters Of Miriam Center/ The Gallen Institute,155 Hazel Street,,Clifton,,586156.271254458,746765.748653167
+598,NJ61620,Doctors Sub Acute Care,59 Birch Street,,Paterson,,579157.490378799,758172.478447686
+599,NJ61611,Llanfair Care & Rehabilitation Center,1140 Black Oak Ridge Road,,Wayne,,554602.629612806,781349.257175194
+600,NJ61614,Regency Gardens Nursing And Post-Acute Rehab Center,296 Hamburg Turnpike,,Wayne,,572976.405857051,770577.289866818
+601,NJ70A000,The Chelsea At Bald Eagle,197 Cahill Cross Road,,West Milford,,530865.280485099,832594.05090301
+602,NJ61625,Arbor Ridge Rehabilitation And Healthcare Center,261 Terhune Drive,,Wayne,,554604.422859985,788315.538607162
+603,NJ61619,Care One At Wayne  - SNF,493 Black Oak Ridge Road,,Wayne,,555724.570312277,773755.58356727
+604,NJ61605,Chestnut Hill Convalescent Center,360 Chestnut Street,,Passaic,,592542.773979725,740164.129490325
+605,NJ61627,Complete Care At Hamilton Plaza,56 Hamilton Avenue,,Passaic,,596171.744679459,739796.341641206
+606,NJ31602,Holland Christian Home,151 Graham Avenue,,North Haledon,,579035.430356192,779428.690937959
+607,NJ61621,Lakeland Health Care Center,25 Fifth Avenue,,Haskell,,548687.242935761,800528.542870772
+608,NJ61610,Lakeview Rehabilitation And Care Center,130 Terhune Drive,,Wayne,,554502.43571188,786848.575115995
+609,NJ61612,Milford Manor,69 Maple Road,,West Milford,,522673.246637889,813333.047412741
+610,NJ61617,Preakness Healthcare Center,305 Oldham Road,,Wayne,,573813.833961894,766379.233889051
+611,NJ31605,St. Joseph's Home - Elderly,140 Shepherd Lane #1,,Totowa,,573304.629132286,758513.066674703
+612,NJ703300,Holland Christian Home,151 Graham Avenue,,North Haledon,,579035.430356192,779428.690937959
+613,NJ703330,St. Joseph's Home - Elderly,140 Shepherd Lane #1,,Totowa,,573304.629132286,758513.066674703
+614,NJ61628,Phoenix Center For Rehabilitation And Pediatrics,1433 Ringwood Avenue,,Haskell,,547716.770671051,794541.423996229
+615,NJVQXWIZ,Care One At Wayne,493 Black Oak Ridge Rd.,,Wayne,,555365.011793465,773938.888287411
+616,NJ70A003,Brookdale Wayne,820 Hamburg Turnpike,,Wayne,,568502.611528731,774153.160472786
+617,BU 24230,Brookdale Wayne,820 Hamburg Turnpike,,Wayne,,568502.611528731,774153.160472786
+618,NJ70A002,Arden Courts Of Wayne,800 Hamburg Turnpike,,Wayne,,568722.817238597,773960.838890431
+619,NJ75A002,Friends Village At Woodstown,One Friends Drive,,Woodstown,Assisted Living Residence,262128.231275932,297871.85129244
+620,NJ75A000,Lindsay Place,39 Supawna Road,,Pennsville,Assisted Living Residence,211421.57869943,283003.09873666
+621,NJ75A001,Merion Gardens Assisted Living,315 Merion Avenue,,Carneys Point,Assisted Living Residence,219772.724279037,318983.242986237
+622,NJ75C000,Carneys Point Rehabilitation And Nursing Center,201 Fifth Avenue,,Carneys Point,Comprehensive Personal Care Home,219689.214439325,332341.295712857
+623,NJ61702,Carneys Point Rehabilitation And Nursing Center,201 Fifth Avenue,,Carneys Point,Long Term Care Facility,219689.214439325,332341.295712857
+624,NJ61704,Eagleview Health And Rehabilitation,849 Big Oak Road,,Pittsgrove,Long Term Care Facility,316512.200963563,238423.499962618
+625,NJ61701,"Friends Village At Woodstown, Inc.",One Friends Drive,,Woodstown,Long Term Care Facility,262128.231275932,297871.85129244
+626,NJ61703,Golden Rehabilitation And Nursing Center,438 Salem-Woodstown Road,,Salem,Long Term Care Facility,229473.771030999,279399.725866386
+627,NJ61706,Southgate Health Care Center,449 S Pennsville-Auburn Road,,Carneys Point,Long Term Care Facility,219022.683817891,312900.651303542
+628,NJ753300,Friends Village At Woodstown,One Friends Drive,,Woodstown,Residential Health Care,262128.231275932,297871.85129244
+629,3120140,Matheny Medical & Educational Center,65 Highland Avenue,P.O. Box 339,Peapack,Long Term Care,453187.460798638,684309.721830442
+630,NJ18A113,All American Assisted Living At Hillsborough,351 Route 206,,Hillsborough,Assisted Living Residence,455388.646969676,611002.819350023
+631,NJ18A007,Brightview Warren,57 Mt Bethel Road,,Warren,Assisted Living Residence,492675.375956061,650527.103011232
+632,NJ80A112,Stonebridge At Montgomery Health Care Center,100 Hollinshead Spring Road,,Skillman,Assisted Living Residence,453458.854965141,575927.894900586
+633,NJ18A111,Sunrise Of Bridgewater,390 Us 22,,Bridgewater,Assisted Living Residence,448954.219149932,640621.888664528
+634,NJ806112,Stonebridge At Montgomery Health Care Center,100 Hollinshead Spring Road,,Skillman,Long Term Care Facility,453458.854965141,575927.894900586
+635,NJ18A105,Care One At Somerset Valley Assisted Living,1621 Route 22 West,,Bound Brook,Assisted Living Residence,478322.311310305,634845.264860145
+636,NJD35013,Fox Trail Memory Care Living Green Brook,205 Rock Avenue,,Green Brook,Residential Dementia Care Home,503006.667352043,645620.891496532
+637,NJ18109,Somerset Woods Rehabilitation & Nursing Center,780 Old New Brunswick Road,,Somerset,Long Term Care Facility,482177.436597806,617565.144514784
+638,NJ61425,Skilled Nursing At Fellowship Village,8000 Fellowship Drive,,Basking Ridge,Long Term Care Facility,469134.379281935,664259.803201574
+639,NJ80A004,Brandywine Living At Middlebrook Crossing,2005 Route 22 West,,Bridgewater,Assisted Living Residence,487634.649523692,637512.04365316
+640,NJ80A000,Holly Center At Arbor Glen,100 Monroe Street,,Bridgewater,Assisted Living Residence,466606.432002861,633992.392438176
+641,NJ82436,Assisted Living At Fellowship Village,8000 Fellowship Road,,Basking Ridge,Assisted Living Residence,468906.272017323,664049.536916526
+642,NJ80A006,Avalon At Bridgewater,565 State Highway 28,,Bridgewater,Assisted Living Residence,452120.174376611,637897.526218018
+643,NJ80A113,The Avalon At Hillsborough,393 Amwell Road,,Hillsborough,Assisted Living Residence,453763.906867203,607742.385942566
+644,NJ80A005,Brandywine Living At Mountain Ridge,680 Mountain Boulevard,,Watchung,Assisted Living Residence,498794.889479372,652285.340905108
+645,NJ80A002,Brookdale Hillsborough,600 Auten Road,,Hillsborough,Assisted Living Residence,448830.59977592,607001.119738386
+646,NJ80A007,The Chelsea At Bridgewater,680 202/206 North,,Bridgewater,Assisted Living Residence,458623.252794269,644116.43097118
+647,NJ80A003,The Chelsea At Warren,274 King George Road,,Warren,Assisted Living Residence,487886.378967635,659176.091125047
+648,NJ80A110,"Martin And Edith Stein Assisted Living Residence, Inc.",350 Demott Lane,,Somerset,Assisted Living Residence,488573.323185542,606894.480041946
+649,NJ80A001,Spring Hills At Somerset,473 Demott Lane,,Somerset,Assisted Living Residence,485898.594271729,607042.464185149
+650,NJ80A008,Sunrise Of Basking Ridge,404 King George Road,,Basking Ridge,Assisted Living Residence,484295.937583763,663647.948978124
+651,NJ61805,Abingdon Care & Rehabilitation Center,303 Rock Ave,,Green Brook,Long Term Care Facility,502086.777074524,646521.805337652
+652,NJ62215,Laurel Circle Senior Living Community,100 Monroe Street,,Bridgewater,Long Term Care Facility,466606.432002861,633992.392438176
+653,NJ61811,Bridgeway Care And Rehabilitation Center At Bridgewater,270 Route 28,,Bridgewater,Long Term Care Facility,445739.403032339,641920.339020728
+654,NJ18104,Bridgeway Care And Rehabilitation Center At Hillsborough,395 Amwell Road,,Hillsborough,Long Term Care Facility,453640.226317513,607801.855088805
+655,NJ61810,Care One At Somerset Valley,1621 Route 22 West,,Bound Brook,Long Term Care Facility,478321.043077992,634845.85663924
+656,NJ61806,Complete Care At Green Knoll,875 Route 202-206 North,,Bridgewater,Long Term Care Facility,456888.369476949,649162.745307749
+657,NJ61803,Foothill Acres Rehabilitation & Nursing Center,39 East Mountain Road,,Hillsborough,Long Term Care Facility,439440.602705692,609352.855922628
+658,NJ61813,Mcauley Hall Health Care Center,1633 Highway 22,,Watchung,Long Term Care Facility,515885.609799408,660463.719135026
+659,NJ31804,"N. J.  Eastern Star Home, Inc.",111 Finderne Avenue,,Bridgewater,Long Term Care Facility,470511.627444718,631593.723473198
+660,NJ61812,"Parker At Somerset, Inc.",15 Dellwood Lane,,Somerset,Long Term Care Facility,491692.136913288,614164.619341693
+661,NJ61801,Regency Heritage Nursing And Rehabilitation Center,380 Demott Lane,,Somerset,Long Term Care Facility,487478.446722098,607031.418348828
+662,NJ61809,Rehab At River's Edge,633 Route 28,,Raritan,Long Term Care Facility,451258.993587674,637747.218378272
+663,NJ61808,Willow Creek Rehabilitation And Care Center,1165 Easton Ave,,Somerset,Long Term Care Facility,494767.165463763,614055.409212599
+664,NJ803330,"N. J. Eastern Star Home, Inc.",111 Finderne Avenue,,Bridgewater,Residential Health Care,470511.627444718,631593.723473198
+665,NJ19A005,Westwind Manor,25 Main Street,,Franklin,,467276.465896252,832412.754011514
+666,NJ19C002,Westwind Manor,25 Main Street,,Franklin,,467276.465896252,832412.754011514
+667,NJ61902,Andover Subacute And Rehabilitation I,1 O'Brien Lane,,Andover,,437295.884583282,805506.708434598
+668,NJ61901,Andover Subacute And Rehabilitation II,99 Mulford Road,,Andover,,436893.288961524,806297.659389385
+669,NJ61903,Barn Hill Care Center,249 High Street,,Newton,,418050.716573775,809190.915020082
+670,NJ61904,Valley View Rehabilitation And Healthcare Center,1 Summit Avenue,,Newton,,419924.424739973,809933.602365227
+671,NJD35010,"Ave Care At Newton, Inc",85 Trinity Street,,Newton,,424070.427207501,809682.573106656
+672,NJ19A001,"Evermay At Branchville, LLC",3 Phillips Road,,Branchville,,423666.019645692,846225.73982052
+673,NJ61905,Homestead Rehabilitation & Health Care Center,129 Morris Turnpike,,Newton,,421608.485643527,834937.682749038
+674,NJ31901,United Methodist Communities At Bristol Glen,200 Bristol Glen Drive,,Newton,Assisted Living Facility,419056.672756247,805317.890525286
+675,NJ85A001,United Methodist Communities At Bristol Glen,200 Bristol Glen Drive,,Newton,,419056.672756247,805317.890525286
+676,NJ85A100,Knoll View Corp,8 Knoll Road,,Sparta,,452420.156378303,803228.039567667
+677,NJ90A120,"Amber Court Of Elizabeth, LLC",1155 East Jersey Street,,Elizabeth,Assisted Living,571592.978571316,667402.546745252
+678,NJ20A013,Arbor Terrace Mountainside,1050 Springfield Avenue,,Mountainside,Assisted Living,538636.542904822,672512.379571656
+679,NJ82472,Atria Cranford,10 Jackson Drive,,Cranford,Assisted Living,551367.016290825,658713.229440811
+680,NJ23268,Kindred Hospital-Rahway,865 Stone Street,,Rahway,Rehabilitation Center,550131.626154331,648200.052824519
+681,NJ62020,Aristacare At Norwood Terrace,40 Norwood Avenue,,Plainfield,Nursing Home,514840.493658791,653108.679317131
+682,NJ12006L,Care Connection Rahway,"865 Stone Street, 4Th Floor",,Rahway,Nursing Home,550140.037594196,648267.129622519
+683,NJ62026,Clark Nursing And Rehabilitation Center,1213 Westfield Avenue,,Clark,Nursing Home,541868.470904802,653083.076604276
+684,NJ32003,Elmora Hills Health & Rehabilitation Center,225 W Jersey Street,,Elizabeth,Rehabilitation And Nursing Home,568589.430868804,666802.423332722
+685,NJ602030,Plaza Healthcare & Rehabilitation Center,456 Rahway Avenue,,Elizabeth,Rehabilitation And Nursing Home,567649.454659552,664311.532085232
+686,NJ62013,Westfield Center,1515 Lamberts Mill Road,,Westfield,Nursing Home,538873.398634112,653169.021764633
+687,3133000,Children's Specialized Hospital,150 New Providence Road,,Mountainside,Children'S Rehabilitation Hospital,532603.845704961,668951.280747319
+688,NJ20A015,Continuing Care At Lantern Hill,535 Mountain Avenue,,New Providence,Assisted Living,519633.132004735,675335.372181268
+689,NJ90122,Brighton Gardens Of Mountainside,1350 Route 22 West,,Mountainside,Assisted Living,532839.089069446,670528.225938234
+690,NJ20016,Continuing Care At Lantern Hill,537 Mountain Avenue,,New Providence,Nursing Home,519633.132004735,675335.372181268
+691,NJ62009,Hackensack Meridian Health Jfk Hartwyck At Cedar Brook,1340 Park Ave,,Plainfield,Nursing Home,518639.33429741,644717.51780941
+692,NJ62022,"Woodlands, The",1400 Woodland Ave,,Plainfield,Nursing Home,521070.491251031,644202.507542118
+693,NJ62021,Manor Care Mountainside,1180 Route 22 West,,Mountainside,Nursing Home,534957.776331544,672463.257673654
+694,NJ12001L,Trinitas Hospital,655 East Jersey Street,,Elizabeth,Regional Medical Center,575790.014821609,665138.643825517
+695,NJ83003,Aveanna Healthcare,316 West Westfield Avenue,,Roselle Park,Pediatric Home Care,554718.779435711,665410.907598494
+696,NJ90A100,Center For Hope Hospice  Inc.,1900 Raritan Road,,Scotch Plains,Hospice And Palliative Care,532929.462381472,651376.075932522
+697,NJ90A000,The Chelsea At Fanwood,295 South Avenue,,Fanwood,Assisted Living,524696.235037305,658670.171714957
+698,NJ90A001,Spring Meadows Summit,41 Springfield Avenue,,Summit,Assisted Living,538054.062216511,686466.633324354
+699,NJ90144,Sunrise Assisted Living Of Westfield,240 Springfield Avenue,,Westfield,Assisted Living,540719.879274135,670114.951099213
+700,NJ90C000,Aristacare At Delaire,400 West Stimpson Avenue,,Linden,Rehabilitation,561627.873463834,652570.177031107
+701,NJ20C003,Birchwood Square At Cranford,205 Birchwood Avenue,,Cranford,Assisted Living,549934.118524588,667730.712250432
+702,NJ82468,Center For Hope,111 Dehart Place,,Elizabeth,Hospice And Palliative Care,568257.045852631,666714.944328565
+703,NJ20C101,Peggy Coloney's House At Hope Village,1900 Raritan Road,,Scotch Plains,Senior Living Facility,532929.462381472,651376.075932522
+704,NJ62018,Alaris Health At Riverton,1777 Lawrence Street,,Rahway,Nursing Home,556141.849279932,646819.31720017
+705,NJ62017,Aristacare At Delaire,400 W Stimpson Ave,,Linden,Rehab Center,561627.873463834,652570.177031107
+706,NJ62002,Ashbrook Care & Rehabilitation Center,1610 Raritan Road,,Scotch Plains,Rehabilitation And Skillend Nursing,530078.201118899,649549.288623838
+707,NJ62016,Autumn Lake Healthcare At Berkeley Heights,35 Cottage Street,,Berkeley Heights,Nursing Home/Skilled Nursing Services,509431.031028144,672914.153033123
+708,NJ22249L,Children's Specialized Hospital,150 New Providence Road,,Mountainside,Rehab Hospital,532567.26415485,668934.328491869
+709,NJ62004,Cornell Care & Rehabilitation Center,234 Chestnut Street,,Union,Rehabilitation And Long-Term Care,556612.451913437,670333.949729344
+710,NJ62005,Cranford Park Rehabilitation & Healthcare Center,600 Lincoln Park East,,Cranford,Rehabilitation And Long-Term Care,547671.272480792,662552.485963769
+711,NJ62006,Cranford Rehab & Nursing Center,205 Birchwood Ave,,Cranford,,549934.118524588,667730.712250432
+712,NJ62007X,Elizabeth Nursing And Rehab Center,1048 Grove Street,,Elizabeth,Rehabilitation And Nursing Home,568193.736024918,664533.232878964
+713,NJ22001L,Runnells Center For Rehabilitation & Healthcare,40 Watchung Way,,Berkeley Heights,Rehabilitation And Long-Term Care,513901.10381923,667307.631877878
+714,NJ62023,South Mountain Healthcare & Rehabilitation,2385 Springfield Avenue,,Vauxhall,Nursing Home,550997.429161423,685792.708012148
+715,NJ62008,Spring Grove Rehabilitation And Healthcare Center,144 Gales Drive,,New Providence,Rehabilitation And Long-Term Care,519192.460403443,680817.141924413
+716,NJ23098,Care One At Trinitas Regional Medical Center,"225 Williamson Street, 7 North",,Elizabeth,Long-Term Acute Care,571444.391895272,665368.898116132
+717,NJ21A001,"Chelsea At Brookfield, The",1 Brookfield Court,,Belvidere,,337622.966646842,722346.876927573
+718,NJ95C000,House Of The Good Shepherd,798 Willow Grove Street,,Hackettstown,,406743.532083175,741421.016154891
+719,NJD35026,Selah Care Center,131/133 Fourth Street,,Belvidere,,331494.3110881,725738.716959328
+720,NJ95A001,House Of The Good Shepherd,798 Willow Grove Street,,Hackettstown,,406722.126204235,741391.184364275
+721,NJ62106,Brakeley Park Center,290 Red School Lane,,Phillipsburg,Nursing Home,306776.298682704,682241.939408762
+722,NJ62104,Clover Rest Home,28 Washington Street,,Columbia,Nursing Home,327991.451049292,762610.045173109
+723,NJ62103,Forest Manor Health Care Center,145 State Park Road,,Blairstown,,374304.673324708,761320.961458017
+724,NJ32101,House Of The Good Shepherd,798 Willow Grove Street,,Hackettstown,,406722.126204235,741391.184364275
+725,NJ62105,Lopatcong Center,390 Red School Lane,,Phillipsburg,Nursing Home,306546.933238856,683461.219278397
+726,NJ62101,Phillipsburg Center,843 Wilbur Avenue,,Phillipsburg,,305444.401273566,674384.62906477
+727,NJ62102,Warren Haven Rehab And Nursing Center,350 Oxford Road,,Oxford,,368270.777487423,726808.874791135
+728,NJ953335,Brakeley Park Center,290 Red School Lane,,Phillipsburg,Nursing Home,306776.298682704,682241.939408762
+729,7EKKEK,Brandywine Living At Reflections At Colts Neck,3 Meridian Circle,,Colts Neck,Assisted Living Residence,582893.169055947,527518.785297493
+730,NJ61421,Cheshire Home,9 Ridgedale Ave,,Florham Park,,518346.058179856,706192.919480111
